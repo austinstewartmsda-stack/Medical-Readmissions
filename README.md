@@ -1,4 +1,11 @@
 # Medical Readmission Project
+## Data Storage
+
+-- I stored the data in a SQL database after taking it from the initial CSV files and loading it.
+
+
+![SQL Database GIF](https://raw.githubusercontent.com/austinstewartmsda-stack/MedicalReadmissions/main/gifs/SQLDataBase.gif)
+
 
 ## Data Cleaning
 
