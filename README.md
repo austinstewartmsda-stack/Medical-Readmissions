@@ -14,15 +14,14 @@ I built a dashboard to track trends, compare the two metrics, and see where the 
 
 I stored the data in a SQL database after taking it from the initial CSV files and loading it.
 
-![SQL Database GIF](https://raw.githubusercontent.com/austinstewartmsda-stack/MedicalReadmissions/main/gifs/SQLDataBase.gif)
-
+![SQL Database GIF](https://raw.githubusercontent.com/austinstewartmsda-stack/Medical-Readmissions/main/gifs/SQLDataBase.gif)
 ---
 
 ## Data Cleaning
 
 I used Excel to do some data cleaning before making visuals by using the LEFT and RIGHT functions to extract text into other columns instead of clicking repeatedly.
 
-![Data Cleaning GIF](https://raw.githubusercontent.com/austinstewartmsda-stack/MedicalReadmissions/main/gifs/Data_Cleaning_With_Left.gif)
+![Data Cleaning GIF](https://raw.githubusercontent.com/austinstewartmsda-stack/Medical-Readmissions/main/gifs/Data_Cleaning_With_Left.gif)
 
 ---
 
