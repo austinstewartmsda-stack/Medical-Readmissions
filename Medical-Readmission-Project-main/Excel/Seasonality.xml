@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:html="http://www.w3.org/TR/REC-html40">
+<Worksheet ss:Name="Table1">
+	<Table>
+		<Column ss:Index="1" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Row>
+			<Cell><Data ss:Type="String">Month_Name</Data></Cell>
+			<Cell><Data ss:Type="String">Avg_Readmission_Rate</Data></Cell>
+			<Cell><Data ss:Type="String">Diff_From_Overall</Data></Cell>
+		</Row>
+
+		<Row>
+			<Cell><Data ss:Type="String">January</Data></Cell>
+			<Cell><Data ss:Type="Number">18.768888888888892</Data></Cell>
+			<Cell><Data ss:Type="Number">0.35562156215621954</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">July</Data></Cell>
+			<Cell><Data ss:Type="Number">18.50375</Data></Cell>
+			<Cell><Data ss:Type="Number">0.09048267326732784</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">March</Data></Cell>
+			<Cell><Data ss:Type="Number">18.50111111111111</Data></Cell>
+			<Cell><Data ss:Type="Number">0.08784378437843898</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">August</Data></Cell>
+			<Cell><Data ss:Type="Number">18.47875</Data></Cell>
+			<Cell><Data ss:Type="Number">0.06548267326732926</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">February</Data></Cell>
+			<Cell><Data ss:Type="Number">18.468888888888888</Data></Cell>
+			<Cell><Data ss:Type="Number">0.055621562156215276</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">June</Data></Cell>
+			<Cell><Data ss:Type="Number">18.415</Data></Cell>
+			<Cell><Data ss:Type="Number">0.0017326732673268452</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">September</Data></Cell>
+			<Cell><Data ss:Type="Number">18.406249999999996</Data></Cell>
+			<Cell><Data ss:Type="Number">-0.007017326732675855</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">May</Data></Cell>
+			<Cell><Data ss:Type="Number">18.323333333333334</Data></Cell>
+			<Cell><Data ss:Type="Number">-0.08993399339933816</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">October</Data></Cell>
+			<Cell><Data ss:Type="Number">18.317500000000003</Data></Cell>
+			<Cell><Data ss:Type="Number">-0.09576732673266974</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">December</Data></Cell>
+			<Cell><Data ss:Type="Number">18.31125</Data></Cell>
+			<Cell><Data ss:Type="Number">-0.10201732673267117</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">April</Data></Cell>
+			<Cell><Data ss:Type="Number">18.31</Data></Cell>
+			<Cell><Data ss:Type="Number">-0.10326732673267358</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">November</Data></Cell>
+			<Cell><Data ss:Type="Number">18.11625</Data></Cell>
+			<Cell><Data ss:Type="Number">-0.29701732673267145</Data></Cell>
+		</Row>	</Table>
+</Worksheet>
+</Workbook>

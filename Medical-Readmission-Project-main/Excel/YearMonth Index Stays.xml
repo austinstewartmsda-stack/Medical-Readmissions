@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:html="http://www.w3.org/TR/REC-html40">
+<Worksheet ss:Name="Table1">
+	<Table>
+		<Column ss:Index="1" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Row>
+			<Cell><Data ss:Type="String">Year/Month</Data></Cell>
+			<Cell><Data ss:Type="String">Index_Stays</Data></Cell>
+		</Row>
+
+		<Row>
+			<Cell><Data ss:Type="String">2008-01</Data></Cell>
+			<Cell><Data ss:Type="Number">935886</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2008-02</Data></Cell>
+			<Cell><Data ss:Type="Number">931485</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2008-03</Data></Cell>
+			<Cell><Data ss:Type="Number">941802</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2008-04</Data></Cell>
+			<Cell><Data ss:Type="Number">905984</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2008-05</Data></Cell>
+			<Cell><Data ss:Type="Number">893809</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2008-06</Data></Cell>
+			<Cell><Data ss:Type="Number">839659</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2008-07</Data></Cell>
+			<Cell><Data ss:Type="Number">859820</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2008-08</Data></Cell>
+			<Cell><Data ss:Type="Number">844495</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2008-09</Data></Cell>
+			<Cell><Data ss:Type="Number">817662</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2008-10</Data></Cell>
+			<Cell><Data ss:Type="Number">880950</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2008-11</Data></Cell>
+			<Cell><Data ss:Type="Number">809180</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2008-12</Data></Cell>
+			<Cell><Data ss:Type="Number">876942</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2009-01</Data></Cell>
+			<Cell><Data ss:Type="Number">906141</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2009-02</Data></Cell>
+			<Cell><Data ss:Type="Number">836110</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2009-03</Data></Cell>
+			<Cell><Data ss:Type="Number">916021</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2009-04</Data></Cell>
+			<Cell><Data ss:Type="Number">881780</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2009-05</Data></Cell>
+			<Cell><Data ss:Type="Number">861001</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2009-06</Data></Cell>
+			<Cell><Data ss:Type="Number">848620</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2009-07</Data></Cell>
+			<Cell><Data ss:Type="Number">860252</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2009-08</Data></Cell>
+			<Cell><Data ss:Type="Number">816421</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2009-09</Data></Cell>
+			<Cell><Data ss:Type="Number">818412</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2009-10</Data></Cell>
+			<Cell><Data ss:Type="Number">868853</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2009-11</Data></Cell>
+			<Cell><Data ss:Type="Number">800355</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2009-12</Data></Cell>
+			<Cell><Data ss:Type="Number">858009</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2010-01</Data></Cell>
+			<Cell><Data ss:Type="Number">883740</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2010-02</Data></Cell>
+			<Cell><Data ss:Type="Number">825962</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2010-03</Data></Cell>
+			<Cell><Data ss:Type="Number">942195</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2010-04</Data></Cell>
+			<Cell><Data ss:Type="Number">880756</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2010-05</Data></Cell>
+			<Cell><Data ss:Type="Number">866921</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2010-06</Data></Cell>
+			<Cell><Data ss:Type="Number">850681</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2010-07</Data></Cell>
+			<Cell><Data ss:Type="Number">859616</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2010-08</Data></Cell>
+			<Cell><Data ss:Type="Number">839950</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2010-09</Data></Cell>
+			<Cell><Data ss:Type="Number">834773</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2010-10</Data></Cell>
+			<Cell><Data ss:Type="Number">864873</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2010-11</Data></Cell>
+			<Cell><Data ss:Type="Number">828111</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2010-12</Data></Cell>
+			<Cell><Data ss:Type="Number">880714</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2011-01</Data></Cell>
+			<Cell><Data ss:Type="Number">908858</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2011-02</Data></Cell>
+			<Cell><Data ss:Type="Number">841340</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2011-03</Data></Cell>
+			<Cell><Data ss:Type="Number">942221</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2011-04</Data></Cell>
+			<Cell><Data ss:Type="Number">874945</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2011-05</Data></Cell>
+			<Cell><Data ss:Type="Number">873712</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2011-06</Data></Cell>
+			<Cell><Data ss:Type="Number">851448</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2011-07</Data></Cell>
+			<Cell><Data ss:Type="Number">828706</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2011-08</Data></Cell>
+			<Cell><Data ss:Type="Number">847212</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2011-09</Data></Cell>
+			<Cell><Data ss:Type="Number">832384</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2011-10</Data></Cell>
+			<Cell><Data ss:Type="Number">843049</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2011-11</Data></Cell>
+			<Cell><Data ss:Type="Number">821254</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2011-12</Data></Cell>
+			<Cell><Data ss:Type="Number">862589</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2012-01</Data></Cell>
+			<Cell><Data ss:Type="Number">885655</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2012-02</Data></Cell>
+			<Cell><Data ss:Type="Number">843644</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2012-03</Data></Cell>
+			<Cell><Data ss:Type="Number">914945</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2012-04</Data></Cell>
+			<Cell><Data ss:Type="Number">826548</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2012-05</Data></Cell>
+			<Cell><Data ss:Type="Number">850873</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2012-06</Data></Cell>
+			<Cell><Data ss:Type="Number">816450</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2012-07</Data></Cell>
+			<Cell><Data ss:Type="Number">804633</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2012-08</Data></Cell>
+			<Cell><Data ss:Type="Number">836246</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2012-09</Data></Cell>
+			<Cell><Data ss:Type="Number">778407</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2012-10</Data></Cell>
+			<Cell><Data ss:Type="Number">833277</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2012-11</Data></Cell>
+			<Cell><Data ss:Type="Number">806387</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2012-12</Data></Cell>
+			<Cell><Data ss:Type="Number">840028</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2013-01</Data></Cell>
+			<Cell><Data ss:Type="Number">924259</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2013-02</Data></Cell>
+			<Cell><Data ss:Type="Number">788370</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2013-03</Data></Cell>
+			<Cell><Data ss:Type="Number">851633</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2013-04</Data></Cell>
+			<Cell><Data ss:Type="Number">822295</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2013-05</Data></Cell>
+			<Cell><Data ss:Type="Number">827477</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2013-06</Data></Cell>
+			<Cell><Data ss:Type="Number">771125</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2013-07</Data></Cell>
+			<Cell><Data ss:Type="Number">787185</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2013-08</Data></Cell>
+			<Cell><Data ss:Type="Number">798634</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2013-09</Data></Cell>
+			<Cell><Data ss:Type="Number">748034</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2013-10</Data></Cell>
+			<Cell><Data ss:Type="Number">786769</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2013-11</Data></Cell>
+			<Cell><Data ss:Type="Number">749715</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2013-12</Data></Cell>
+			<Cell><Data ss:Type="Number">774558</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2014-01</Data></Cell>
+			<Cell><Data ss:Type="Number">838098</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2014-02</Data></Cell>
+			<Cell><Data ss:Type="Number">740487</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2014-03</Data></Cell>
+			<Cell><Data ss:Type="Number">801741</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2014-04</Data></Cell>
+			<Cell><Data ss:Type="Number">794472</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2014-05</Data></Cell>
+			<Cell><Data ss:Type="Number">804720</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2014-06</Data></Cell>
+			<Cell><Data ss:Type="Number">757449</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2014-07</Data></Cell>
+			<Cell><Data ss:Type="Number">773951</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2014-08</Data></Cell>
+			<Cell><Data ss:Type="Number">762879</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2014-09</Data></Cell>
+			<Cell><Data ss:Type="Number">747180</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2014-10</Data></Cell>
+			<Cell><Data ss:Type="Number">795847</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2014-11</Data></Cell>
+			<Cell><Data ss:Type="Number">722766</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2014-12</Data></Cell>
+			<Cell><Data ss:Type="Number">829321</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2015-01</Data></Cell>
+			<Cell><Data ss:Type="Number">873673</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2015-02</Data></Cell>
+			<Cell><Data ss:Type="Number">753437</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2015-03</Data></Cell>
+			<Cell><Data ss:Type="Number">828487</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2015-04</Data></Cell>
+			<Cell><Data ss:Type="Number">803085</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2015-05</Data></Cell>
+			<Cell><Data ss:Type="Number">784373</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2015-06</Data></Cell>
+			<Cell><Data ss:Type="Number">768724</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2015-07</Data></Cell>
+			<Cell><Data ss:Type="Number">778769</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2015-08</Data></Cell>
+			<Cell><Data ss:Type="Number">745295</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2015-09</Data></Cell>
+			<Cell><Data ss:Type="Number">745365</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2015-10</Data></Cell>
+			<Cell><Data ss:Type="Number">784748</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2015-11</Data></Cell>
+			<Cell><Data ss:Type="Number">726261</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2015-12</Data></Cell>
+			<Cell><Data ss:Type="Number">785965</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2016-01</Data></Cell>
+			<Cell><Data ss:Type="Number">795097</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2016-02</Data></Cell>
+			<Cell><Data ss:Type="Number">772434</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2016-03</Data></Cell>
+			<Cell><Data ss:Type="Number">838004</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2016-04</Data></Cell>
+			<Cell><Data ss:Type="Number">787893</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2016-05</Data></Cell>
+			<Cell><Data ss:Type="Number">769173</Data></Cell>
+		</Row>	</Table>
+</Worksheet>
+</Workbook>

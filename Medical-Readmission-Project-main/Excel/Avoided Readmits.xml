@@ -1,0 +1,829 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:html="http://www.w3.org/TR/REC-html40">
+<Worksheet ss:Name="Table1">
+	<Table>
+		<Column ss:Index="1" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Row>
+			<Cell><Data ss:Type="String">Service_Month_Date</Data></Cell>
+			<Cell><Data ss:Type="String">Index_Stays</Data></Cell>
+			<Cell><Data ss:Type="String">Readmission_Rate</Data></Cell>
+			<Cell><Data ss:Type="String">Expected_Readmits_At_Baseline</Data></Cell>
+			<Cell><Data ss:Type="String">Actual_Readmits</Data></Cell>
+			<Cell><Data ss:Type="String">Avoided_Readmissions</Data></Cell>
+		</Row>
+
+		<Row>
+			<Cell><Data ss:Type="String">2008-01-01</Data></Cell>
+			<Cell><Data ss:Type="Number">935886</Data></Cell>
+			<Cell><Data ss:Type="Number">19.36</Data></Cell>
+			<Cell><Data ss:Type="Number">178044.5124499999563253200</Data></Cell>
+			<Cell><Data ss:Type="Number">181225</Data></Cell>
+			<Cell><Data ss:Type="Number">-3180.4875500000436746800</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2008-02-01</Data></Cell>
+			<Cell><Data ss:Type="Number">931485</Data></Cell>
+			<Cell><Data ss:Type="Number">19.36</Data></Cell>
+			<Cell><Data ss:Type="Number">177207.2588749999565307000</Data></Cell>
+			<Cell><Data ss:Type="Number">178331</Data></Cell>
+			<Cell><Data ss:Type="Number">-1123.7411250000434693000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2008-03-01</Data></Cell>
+			<Cell><Data ss:Type="Number">941802</Data></Cell>
+			<Cell><Data ss:Type="Number">19.14</Data></Cell>
+			<Cell><Data ss:Type="Number">179169.9821499999560492400</Data></Cell>
+			<Cell><Data ss:Type="Number">178382</Data></Cell>
+			<Cell><Data ss:Type="Number">787.9821499999560492400</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2008-04-01</Data></Cell>
+			<Cell><Data ss:Type="Number">905984</Data></Cell>
+			<Cell><Data ss:Type="Number">18.94</Data></Cell>
+			<Cell><Data ss:Type="Number">172355.9061333332910540800</Data></Cell>
+			<Cell><Data ss:Type="Number">171567</Data></Cell>
+			<Cell><Data ss:Type="Number">788.9061333332910540800</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2008-05-01</Data></Cell>
+			<Cell><Data ss:Type="Number">893809</Data></Cell>
+			<Cell><Data ss:Type="Number">18.94</Data></Cell>
+			<Cell><Data ss:Type="Number">170039.7138416666249555800</Data></Cell>
+			<Cell><Data ss:Type="Number">168860</Data></Cell>
+			<Cell><Data ss:Type="Number">1179.7138416666249555800</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2008-06-01</Data></Cell>
+			<Cell><Data ss:Type="Number">839659</Data></Cell>
+			<Cell><Data ss:Type="Number">18.89</Data></Cell>
+			<Cell><Data ss:Type="Number">159738.1275916666274825800</Data></Cell>
+			<Cell><Data ss:Type="Number">159879</Data></Cell>
+			<Cell><Data ss:Type="Number">-140.8724083333725174200</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2008-07-01</Data></Cell>
+			<Cell><Data ss:Type="Number">859820</Data></Cell>
+			<Cell><Data ss:Type="Number">19.04</Data></Cell>
+			<Cell><Data ss:Type="Number">163573.5898333332932084000</Data></Cell>
+			<Cell><Data ss:Type="Number">163771</Data></Cell>
+			<Cell><Data ss:Type="Number">-197.4101666667067916000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2008-08-01</Data></Cell>
+			<Cell><Data ss:Type="Number">844495</Data></Cell>
+			<Cell><Data ss:Type="Number">19.05</Data></Cell>
+			<Cell><Data ss:Type="Number">160658.1362916666272569000</Data></Cell>
+			<Cell><Data ss:Type="Number">159695</Data></Cell>
+			<Cell><Data ss:Type="Number">963.1362916666272569000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2008-09-01</Data></Cell>
+			<Cell><Data ss:Type="Number">817662</Data></Cell>
+			<Cell><Data ss:Type="Number">18.91</Data></Cell>
+			<Cell><Data ss:Type="Number">155553.3816499999618424400</Data></Cell>
+			<Cell><Data ss:Type="Number">155218</Data></Cell>
+			<Cell><Data ss:Type="Number">335.3816499999618424400</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2008-10-01</Data></Cell>
+			<Cell><Data ss:Type="Number">880950</Data></Cell>
+			<Cell><Data ss:Type="Number">18.98</Data></Cell>
+			<Cell><Data ss:Type="Number">167593.3962499999588890000</Data></Cell>
+			<Cell><Data ss:Type="Number">165566</Data></Cell>
+			<Cell><Data ss:Type="Number">2027.3962499999588890000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2008-11-01</Data></Cell>
+			<Cell><Data ss:Type="Number">809180</Data></Cell>
+			<Cell><Data ss:Type="Number">18.79</Data></Cell>
+			<Cell><Data ss:Type="Number">153939.7518333332955716000</Data></Cell>
+			<Cell><Data ss:Type="Number">152846</Data></Cell>
+			<Cell><Data ss:Type="Number">1093.7518333332955716000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2008-12-01</Data></Cell>
+			<Cell><Data ss:Type="Number">876942</Data></Cell>
+			<Cell><Data ss:Type="Number">18.89</Data></Cell>
+			<Cell><Data ss:Type="Number">166830.9076499999590760400</Data></Cell>
+			<Cell><Data ss:Type="Number">171304</Data></Cell>
+			<Cell><Data ss:Type="Number">-4473.0923500000409239600</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2009-01-01</Data></Cell>
+			<Cell><Data ss:Type="Number">906141</Data></Cell>
+			<Cell><Data ss:Type="Number">19.53</Data></Cell>
+			<Cell><Data ss:Type="Number">172385.7740749999577134200</Data></Cell>
+			<Cell><Data ss:Type="Number">173816</Data></Cell>
+			<Cell><Data ss:Type="Number">-1430.2259250000422865800</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2009-02-01</Data></Cell>
+			<Cell><Data ss:Type="Number">836110</Data></Cell>
+			<Cell><Data ss:Type="Number">19.18</Data></Cell>
+			<Cell><Data ss:Type="Number">159062.9599166666276482000</Data></Cell>
+			<Cell><Data ss:Type="Number">161382</Data></Cell>
+			<Cell><Data ss:Type="Number">-2319.0400833333723518000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2009-03-01</Data></Cell>
+			<Cell><Data ss:Type="Number">916021</Data></Cell>
+			<Cell><Data ss:Type="Number">19.3</Data></Cell>
+			<Cell><Data ss:Type="Number">174265.3617416666239190200</Data></Cell>
+			<Cell><Data ss:Type="Number">174510</Data></Cell>
+			<Cell><Data ss:Type="Number">-244.6382583333760809800</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2009-04-01</Data></Cell>
+			<Cell><Data ss:Type="Number">881780</Data></Cell>
+			<Cell><Data ss:Type="Number">19.05</Data></Cell>
+			<Cell><Data ss:Type="Number">167751.2968333332921836000</Data></Cell>
+			<Cell><Data ss:Type="Number">167479</Data></Cell>
+			<Cell><Data ss:Type="Number">272.2968333332921836000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2009-05-01</Data></Cell>
+			<Cell><Data ss:Type="Number">861001</Data></Cell>
+			<Cell><Data ss:Type="Number">18.99</Data></Cell>
+			<Cell><Data ss:Type="Number">163798.2652416666264866200</Data></Cell>
+			<Cell><Data ss:Type="Number">162913</Data></Cell>
+			<Cell><Data ss:Type="Number">885.2652416666264866200</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2009-06-01</Data></Cell>
+			<Cell><Data ss:Type="Number">848620</Data></Cell>
+			<Cell><Data ss:Type="Number">18.92</Data></Cell>
+			<Cell><Data ss:Type="Number">161442.8831666666270644000</Data></Cell>
+			<Cell><Data ss:Type="Number">161625</Data></Cell>
+			<Cell><Data ss:Type="Number">-182.1168333333729356000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2009-07-01</Data></Cell>
+			<Cell><Data ss:Type="Number">860252</Data></Cell>
+			<Cell><Data ss:Type="Number">19.05</Data></Cell>
+			<Cell><Data ss:Type="Number">163655.7742333332931882400</Data></Cell>
+			<Cell><Data ss:Type="Number">162771</Data></Cell>
+			<Cell><Data ss:Type="Number">884.7742333332931882400</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2009-08-01</Data></Cell>
+			<Cell><Data ss:Type="Number">816421</Data></Cell>
+			<Cell><Data ss:Type="Number">18.92</Data></Cell>
+			<Cell><Data ss:Type="Number">155317.2917416666285670200</Data></Cell>
+			<Cell><Data ss:Type="Number">153423</Data></Cell>
+			<Cell><Data ss:Type="Number">1894.2917416666285670200</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2009-09-01</Data></Cell>
+			<Cell><Data ss:Type="Number">818412</Data></Cell>
+			<Cell><Data ss:Type="Number">18.79</Data></Cell>
+			<Cell><Data ss:Type="Number">155696.0628999999618074400</Data></Cell>
+			<Cell><Data ss:Type="Number">155529</Data></Cell>
+			<Cell><Data ss:Type="Number">167.0628999999618074400</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2009-10-01</Data></Cell>
+			<Cell><Data ss:Type="Number">868853</Data></Cell>
+			<Cell><Data ss:Type="Number">19</Data></Cell>
+			<Cell><Data ss:Type="Number">165292.0428083332927868600</Data></Cell>
+			<Cell><Data ss:Type="Number">162329</Data></Cell>
+			<Cell><Data ss:Type="Number">2963.0428083332927868600</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2009-11-01</Data></Cell>
+			<Cell><Data ss:Type="Number">800355</Data></Cell>
+			<Cell><Data ss:Type="Number">18.68</Data></Cell>
+			<Cell><Data ss:Type="Number">152260.8691249999626501000</Data></Cell>
+			<Cell><Data ss:Type="Number">149814</Data></Cell>
+			<Cell><Data ss:Type="Number">2446.8691249999626501000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2009-12-01</Data></Cell>
+			<Cell><Data ss:Type="Number">858009</Data></Cell>
+			<Cell><Data ss:Type="Number">18.72</Data></Cell>
+			<Cell><Data ss:Type="Number">163229.0621749999599595800</Data></Cell>
+			<Cell><Data ss:Type="Number">165647</Data></Cell>
+			<Cell><Data ss:Type="Number">-2417.9378250000400404200</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2010-01-01</Data></Cell>
+			<Cell><Data ss:Type="Number">883740</Data></Cell>
+			<Cell><Data ss:Type="Number">19.31</Data></Cell>
+			<Cell><Data ss:Type="Number">168124.1704999999587588000</Data></Cell>
+			<Cell><Data ss:Type="Number">166328</Data></Cell>
+			<Cell><Data ss:Type="Number">1796.1704999999587588000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2010-02-01</Data></Cell>
+			<Cell><Data ss:Type="Number">825962</Data></Cell>
+			<Cell><Data ss:Type="Number">18.82</Data></Cell>
+			<Cell><Data ss:Type="Number">157132.3874833332947884400</Data></Cell>
+			<Cell><Data ss:Type="Number">157839</Data></Cell>
+			<Cell><Data ss:Type="Number">-706.6125166667052115600</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2010-03-01</Data></Cell>
+			<Cell><Data ss:Type="Number">942195</Data></Cell>
+			<Cell><Data ss:Type="Number">19.11</Data></Cell>
+			<Cell><Data ss:Type="Number">179244.7471249999560309000</Data></Cell>
+			<Cell><Data ss:Type="Number">177533</Data></Cell>
+			<Cell><Data ss:Type="Number">1711.7471249999560309000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2010-04-01</Data></Cell>
+			<Cell><Data ss:Type="Number">880756</Data></Cell>
+			<Cell><Data ss:Type="Number">18.84</Data></Cell>
+			<Cell><Data ss:Type="Number">167556.4893666666255647200</Data></Cell>
+			<Cell><Data ss:Type="Number">166706</Data></Cell>
+			<Cell><Data ss:Type="Number">850.4893666666255647200</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2010-05-01</Data></Cell>
+			<Cell><Data ss:Type="Number">866921</Data></Cell>
+			<Cell><Data ss:Type="Number">18.93</Data></Cell>
+			<Cell><Data ss:Type="Number">164924.4959083332928770200</Data></Cell>
+			<Cell><Data ss:Type="Number">163019</Data></Cell>
+			<Cell><Data ss:Type="Number">1905.4959083332928770200</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2010-06-01</Data></Cell>
+			<Cell><Data ss:Type="Number">850681</Data></Cell>
+			<Cell><Data ss:Type="Number">18.8</Data></Cell>
+			<Cell><Data ss:Type="Number">161834.9712416666269682200</Data></Cell>
+			<Cell><Data ss:Type="Number">163454</Data></Cell>
+			<Cell><Data ss:Type="Number">-1619.0287583333730317800</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2010-07-01</Data></Cell>
+			<Cell><Data ss:Type="Number">859616</Data></Cell>
+			<Cell><Data ss:Type="Number">19.21</Data></Cell>
+			<Cell><Data ss:Type="Number">163534.7805333332932179200</Data></Cell>
+			<Cell><Data ss:Type="Number">163480</Data></Cell>
+			<Cell><Data ss:Type="Number">54.7805333332932179200</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2010-08-01</Data></Cell>
+			<Cell><Data ss:Type="Number">839950</Data></Cell>
+			<Cell><Data ss:Type="Number">19.02</Data></Cell>
+			<Cell><Data ss:Type="Number">159793.4879166666274690000</Data></Cell>
+			<Cell><Data ss:Type="Number">159475</Data></Cell>
+			<Cell><Data ss:Type="Number">318.4879166666274690000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2010-09-01</Data></Cell>
+			<Cell><Data ss:Type="Number">834773</Data></Cell>
+			<Cell><Data ss:Type="Number">18.99</Data></Cell>
+			<Cell><Data ss:Type="Number">158808.6068083332943772600</Data></Cell>
+			<Cell><Data ss:Type="Number">158679</Data></Cell>
+			<Cell><Data ss:Type="Number">129.6068083332943772600</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2010-10-01</Data></Cell>
+			<Cell><Data ss:Type="Number">864873</Data></Cell>
+			<Cell><Data ss:Type="Number">19.01</Data></Cell>
+			<Cell><Data ss:Type="Number">164534.8809749999596392600</Data></Cell>
+			<Cell><Data ss:Type="Number">161547</Data></Cell>
+			<Cell><Data ss:Type="Number">2987.8809749999596392600</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2010-11-01</Data></Cell>
+			<Cell><Data ss:Type="Number">828111</Data></Cell>
+			<Cell><Data ss:Type="Number">18.68</Data></Cell>
+			<Cell><Data ss:Type="Number">157541.2168249999613548200</Data></Cell>
+			<Cell><Data ss:Type="Number">155420</Data></Cell>
+			<Cell><Data ss:Type="Number">2121.2168249999613548200</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2010-12-01</Data></Cell>
+			<Cell><Data ss:Type="Number">880714</Data></Cell>
+			<Cell><Data ss:Type="Number">18.77</Data></Cell>
+			<Cell><Data ss:Type="Number">167548.4992166666255666800</Data></Cell>
+			<Cell><Data ss:Type="Number">171192</Data></Cell>
+			<Cell><Data ss:Type="Number">-3643.5007833333744333200</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2011-01-01</Data></Cell>
+			<Cell><Data ss:Type="Number">908858</Data></Cell>
+			<Cell><Data ss:Type="Number">19.44</Data></Cell>
+			<Cell><Data ss:Type="Number">172902.6606833332909199600</Data></Cell>
+			<Cell><Data ss:Type="Number">172361</Data></Cell>
+			<Cell><Data ss:Type="Number">541.6606833332909199600</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2011-02-01</Data></Cell>
+			<Cell><Data ss:Type="Number">841340</Data></Cell>
+			<Cell><Data ss:Type="Number">18.96</Data></Cell>
+			<Cell><Data ss:Type="Number">160057.9238333332940708000</Data></Cell>
+			<Cell><Data ss:Type="Number">160881</Data></Cell>
+			<Cell><Data ss:Type="Number">-823.0761666667059292000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2011-03-01</Data></Cell>
+			<Cell><Data ss:Type="Number">942221</Data></Cell>
+			<Cell><Data ss:Type="Number">19.12</Data></Cell>
+			<Cell><Data ss:Type="Number">179249.6934083332893630200</Data></Cell>
+			<Cell><Data ss:Type="Number">178707</Data></Cell>
+			<Cell><Data ss:Type="Number">542.6934083332893630200</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2011-04-01</Data></Cell>
+			<Cell><Data ss:Type="Number">874945</Data></Cell>
+			<Cell><Data ss:Type="Number">18.97</Data></Cell>
+			<Cell><Data ss:Type="Number">166450.9950416666258359000</Data></Cell>
+			<Cell><Data ss:Type="Number">165010</Data></Cell>
+			<Cell><Data ss:Type="Number">1440.9950416666258359000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2011-05-01</Data></Cell>
+			<Cell><Data ss:Type="Number">873712</Data></Cell>
+			<Cell><Data ss:Type="Number">18.86</Data></Cell>
+			<Cell><Data ss:Type="Number">166216.4270666666258934400</Data></Cell>
+			<Cell><Data ss:Type="Number">164856</Data></Cell>
+			<Cell><Data ss:Type="Number">1360.4270666666258934400</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2011-06-01</Data></Cell>
+			<Cell><Data ss:Type="Number">851448</Data></Cell>
+			<Cell><Data ss:Type="Number">18.87</Data></Cell>
+			<Cell><Data ss:Type="Number">161980.8865999999602657600</Data></Cell>
+			<Cell><Data ss:Type="Number">160531</Data></Cell>
+			<Cell><Data ss:Type="Number">1449.8865999999602657600</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2011-07-01</Data></Cell>
+			<Cell><Data ss:Type="Number">828706</Data></Cell>
+			<Cell><Data ss:Type="Number">18.85</Data></Cell>
+			<Cell><Data ss:Type="Number">157654.4106166666279937200</Data></Cell>
+			<Cell><Data ss:Type="Number">156830</Data></Cell>
+			<Cell><Data ss:Type="Number">824.4106166666279937200</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2011-08-01</Data></Cell>
+			<Cell><Data ss:Type="Number">847212</Data></Cell>
+			<Cell><Data ss:Type="Number">18.92</Data></Cell>
+			<Cell><Data ss:Type="Number">161175.0228999999604634400</Data></Cell>
+			<Cell><Data ss:Type="Number">159460</Data></Cell>
+			<Cell><Data ss:Type="Number">1715.0228999999604634400</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2011-09-01</Data></Cell>
+			<Cell><Data ss:Type="Number">832384</Data></Cell>
+			<Cell><Data ss:Type="Number">18.82</Data></Cell>
+			<Cell><Data ss:Type="Number">158354.1194666666278220800</Data></Cell>
+			<Cell><Data ss:Type="Number">156853</Data></Cell>
+			<Cell><Data ss:Type="Number">1501.1194666666278220800</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2011-10-01</Data></Cell>
+			<Cell><Data ss:Type="Number">843049</Data></Cell>
+			<Cell><Data ss:Type="Number">18.84</Data></Cell>
+			<Cell><Data ss:Type="Number">160383.0468416666273243800</Data></Cell>
+			<Cell><Data ss:Type="Number">155792</Data></Cell>
+			<Cell><Data ss:Type="Number">4591.0468416666273243800</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2011-11-01</Data></Cell>
+			<Cell><Data ss:Type="Number">821254</Data></Cell>
+			<Cell><Data ss:Type="Number">18.48</Data></Cell>
+			<Cell><Data ss:Type="Number">156236.7297166666283414800</Data></Cell>
+			<Cell><Data ss:Type="Number">153367</Data></Cell>
+			<Cell><Data ss:Type="Number">2869.7297166666283414800</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2011-12-01</Data></Cell>
+			<Cell><Data ss:Type="Number">862589</Data></Cell>
+			<Cell><Data ss:Type="Number">18.67</Data></Cell>
+			<Cell><Data ss:Type="Number">164100.3690083332930791800</Data></Cell>
+			<Cell><Data ss:Type="Number">165337</Data></Cell>
+			<Cell><Data ss:Type="Number">-1236.6309916667069208200</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2012-01-01</Data></Cell>
+			<Cell><Data ss:Type="Number">885655</Data></Cell>
+			<Cell><Data ss:Type="Number">19.17</Data></Cell>
+			<Cell><Data ss:Type="Number">168488.4832916666253361000</Data></Cell>
+			<Cell><Data ss:Type="Number">164805</Data></Cell>
+			<Cell><Data ss:Type="Number">3683.4832916666253361000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2012-02-01</Data></Cell>
+			<Cell><Data ss:Type="Number">843644</Data></Cell>
+			<Cell><Data ss:Type="Number">18.61</Data></Cell>
+			<Cell><Data ss:Type="Number">160496.2406333332939632800</Data></Cell>
+			<Cell><Data ss:Type="Number">157885</Data></Cell>
+			<Cell><Data ss:Type="Number">2611.2406333332939632800</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2012-03-01</Data></Cell>
+			<Cell><Data ss:Type="Number">914945</Data></Cell>
+			<Cell><Data ss:Type="Number">18.71</Data></Cell>
+			<Cell><Data ss:Type="Number">174060.6617083332906359000</Data></Cell>
+			<Cell><Data ss:Type="Number">167562</Data></Cell>
+			<Cell><Data ss:Type="Number">6498.6617083332906359000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2012-04-01</Data></Cell>
+			<Cell><Data ss:Type="Number">826548</Data></Cell>
+			<Cell><Data ss:Type="Number">18.31</Data></Cell>
+			<Cell><Data ss:Type="Number">157243.8690999999614277600</Data></Cell>
+			<Cell><Data ss:Type="Number">151806</Data></Cell>
+			<Cell><Data ss:Type="Number">5437.8690999999614277600</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2012-05-01</Data></Cell>
+			<Cell><Data ss:Type="Number">850873</Data></Cell>
+			<Cell><Data ss:Type="Number">18.37</Data></Cell>
+			<Cell><Data ss:Type="Number">161871.4976416666269592600</Data></Cell>
+			<Cell><Data ss:Type="Number">156176</Data></Cell>
+			<Cell><Data ss:Type="Number">5695.4976416666269592600</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2012-06-01</Data></Cell>
+			<Cell><Data ss:Type="Number">816450</Data></Cell>
+			<Cell><Data ss:Type="Number">18.35</Data></Cell>
+			<Cell><Data ss:Type="Number">155322.8087499999618990000</Data></Cell>
+			<Cell><Data ss:Type="Number">151309</Data></Cell>
+			<Cell><Data ss:Type="Number">4013.8087499999618990000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2012-07-01</Data></Cell>
+			<Cell><Data ss:Type="Number">804633</Data></Cell>
+			<Cell><Data ss:Type="Number">18.53</Data></Cell>
+			<Cell><Data ss:Type="Number">153074.7229749999624504600</Data></Cell>
+			<Cell><Data ss:Type="Number">147893</Data></Cell>
+			<Cell><Data ss:Type="Number">5181.7229749999624504600</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2012-08-01</Data></Cell>
+			<Cell><Data ss:Type="Number">836246</Data></Cell>
+			<Cell><Data ss:Type="Number">18.38</Data></Cell>
+			<Cell><Data ss:Type="Number">159088.8327833332943085200</Data></Cell>
+			<Cell><Data ss:Type="Number">152842</Data></Cell>
+			<Cell><Data ss:Type="Number">6246.8327833332943085200</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2012-09-01</Data></Cell>
+			<Cell><Data ss:Type="Number">778407</Data></Cell>
+			<Cell><Data ss:Type="Number">18.28</Data></Cell>
+			<Cell><Data ss:Type="Number">148085.4450249999636743400</Data></Cell>
+			<Cell><Data ss:Type="Number">140489</Data></Cell>
+			<Cell><Data ss:Type="Number">7596.4450249999636743400</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2012-10-01</Data></Cell>
+			<Cell><Data ss:Type="Number">833277</Data></Cell>
+			<Cell><Data ss:Type="Number">18.05</Data></Cell>
+			<Cell><Data ss:Type="Number">158524.0052749999611137400</Data></Cell>
+			<Cell><Data ss:Type="Number">148709</Data></Cell>
+			<Cell><Data ss:Type="Number">9815.0052749999611137400</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2012-11-01</Data></Cell>
+			<Cell><Data ss:Type="Number">806387</Data></Cell>
+			<Cell><Data ss:Type="Number">17.85</Data></Cell>
+			<Cell><Data ss:Type="Number">153408.4068583332957019400</Data></Cell>
+			<Cell><Data ss:Type="Number">146140</Data></Cell>
+			<Cell><Data ss:Type="Number">7268.4068583332957019400</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2012-12-01</Data></Cell>
+			<Cell><Data ss:Type="Number">840028</Data></Cell>
+			<Cell><Data ss:Type="Number">18.12</Data></Cell>
+			<Cell><Data ss:Type="Number">159808.3267666666274653600</Data></Cell>
+			<Cell><Data ss:Type="Number">157820</Data></Cell>
+			<Cell><Data ss:Type="Number">1988.3267666666274653600</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2013-01-01</Data></Cell>
+			<Cell><Data ss:Type="Number">924259</Data></Cell>
+			<Cell><Data ss:Type="Number">18.79</Data></Cell>
+			<Cell><Data ss:Type="Number">175832.5725916666235345800</Data></Cell>
+			<Cell><Data ss:Type="Number">165489</Data></Cell>
+			<Cell><Data ss:Type="Number">10343.5725916666235345800</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2013-02-01</Data></Cell>
+			<Cell><Data ss:Type="Number">788370</Data></Cell>
+			<Cell><Data ss:Type="Number">17.91</Data></Cell>
+			<Cell><Data ss:Type="Number">149980.8227499999632094000</Data></Cell>
+			<Cell><Data ss:Type="Number">141877</Data></Cell>
+			<Cell><Data ss:Type="Number">8103.8227499999632094000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2013-03-01</Data></Cell>
+			<Cell><Data ss:Type="Number">851633</Data></Cell>
+			<Cell><Data ss:Type="Number">18</Data></Cell>
+			<Cell><Data ss:Type="Number">162016.0813083332935904600</Data></Cell>
+			<Cell><Data ss:Type="Number">152395</Data></Cell>
+			<Cell><Data ss:Type="Number">9621.0813083332935904600</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2013-04-01</Data></Cell>
+			<Cell><Data ss:Type="Number">822295</Data></Cell>
+			<Cell><Data ss:Type="Number">17.89</Data></Cell>
+			<Cell><Data ss:Type="Number">156434.7712916666282929000</Data></Cell>
+			<Cell><Data ss:Type="Number">145721</Data></Cell>
+			<Cell><Data ss:Type="Number">10713.7712916666282929000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2013-05-01</Data></Cell>
+			<Cell><Data ss:Type="Number">827477</Data></Cell>
+			<Cell><Data ss:Type="Number">17.72</Data></Cell>
+			<Cell><Data ss:Type="Number">157420.6036083332947177400</Data></Cell>
+			<Cell><Data ss:Type="Number">147583</Data></Cell>
+			<Cell><Data ss:Type="Number">9837.6036083332947177400</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2013-06-01</Data></Cell>
+			<Cell><Data ss:Type="Number">771125</Data></Cell>
+			<Cell><Data ss:Type="Number">17.84</Data></Cell>
+			<Cell><Data ss:Type="Number">146700.1052083332973475000</Data></Cell>
+			<Cell><Data ss:Type="Number">136699</Data></Cell>
+			<Cell><Data ss:Type="Number">10001.1052083332973475000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2013-07-01</Data></Cell>
+			<Cell><Data ss:Type="Number">787185</Data></Cell>
+			<Cell><Data ss:Type="Number">17.73</Data></Cell>
+			<Cell><Data ss:Type="Number">149755.3863749999632647000</Data></Cell>
+			<Cell><Data ss:Type="Number">141025</Data></Cell>
+			<Cell><Data ss:Type="Number">8730.3863749999632647000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2013-08-01</Data></Cell>
+			<Cell><Data ss:Type="Number">798634</Data></Cell>
+			<Cell><Data ss:Type="Number">17.92</Data></Cell>
+			<Cell><Data ss:Type="Number">151933.4632166666293970800</Data></Cell>
+			<Cell><Data ss:Type="Number">142413</Data></Cell>
+			<Cell><Data ss:Type="Number">9520.4632166666293970800</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2013-09-01</Data></Cell>
+			<Cell><Data ss:Type="Number">748034</Data></Cell>
+			<Cell><Data ss:Type="Number">17.83</Data></Cell>
+			<Cell><Data ss:Type="Number">142307.2348833332984250800</Data></Cell>
+			<Cell><Data ss:Type="Number">131179</Data></Cell>
+			<Cell><Data ss:Type="Number">11128.2348833332984250800</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2013-10-01</Data></Cell>
+			<Cell><Data ss:Type="Number">786769</Data></Cell>
+			<Cell><Data ss:Type="Number">17.54</Data></Cell>
+			<Cell><Data ss:Type="Number">149676.2458416666299507800</Data></Cell>
+			<Cell><Data ss:Type="Number">136775</Data></Cell>
+			<Cell><Data ss:Type="Number">12901.2458416666299507800</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2013-11-01</Data></Cell>
+			<Cell><Data ss:Type="Number">749715</Data></Cell>
+			<Cell><Data ss:Type="Number">17.38</Data></Cell>
+			<Cell><Data ss:Type="Number">142627.0311249999650133000</Data></Cell>
+			<Cell><Data ss:Type="Number">130969</Data></Cell>
+			<Cell><Data ss:Type="Number">11658.0311249999650133000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2013-12-01</Data></Cell>
+			<Cell><Data ss:Type="Number">774558</Data></Cell>
+			<Cell><Data ss:Type="Number">17.47</Data></Cell>
+			<Cell><Data ss:Type="Number">147353.2048499999638539600</Data></Cell>
+			<Cell><Data ss:Type="Number">141060</Data></Cell>
+			<Cell><Data ss:Type="Number">6293.2048499999638539600</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2014-01-01</Data></Cell>
+			<Cell><Data ss:Type="Number">838098</Data></Cell>
+			<Cell><Data ss:Type="Number">18.21</Data></Cell>
+			<Cell><Data ss:Type="Number">159441.1603499999608887600</Data></Cell>
+			<Cell><Data ss:Type="Number">148911</Data></Cell>
+			<Cell><Data ss:Type="Number">10530.1603499999608887600</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2014-02-01</Data></Cell>
+			<Cell><Data ss:Type="Number">740487</Data></Cell>
+			<Cell><Data ss:Type="Number">17.77</Data></Cell>
+			<Cell><Data ss:Type="Number">140871.4810249999654439400</Data></Cell>
+			<Cell><Data ss:Type="Number">131056</Data></Cell>
+			<Cell><Data ss:Type="Number">9815.4810249999654439400</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2014-03-01</Data></Cell>
+			<Cell><Data ss:Type="Number">801741</Data></Cell>
+			<Cell><Data ss:Type="Number">17.7</Data></Cell>
+			<Cell><Data ss:Type="Number">152524.5440749999625854200</Data></Cell>
+			<Cell><Data ss:Type="Number">142626</Data></Cell>
+			<Cell><Data ss:Type="Number">9898.5440749999625854200</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2014-04-01</Data></Cell>
+			<Cell><Data ss:Type="Number">794472</Data></Cell>
+			<Cell><Data ss:Type="Number">17.79</Data></Cell>
+			<Cell><Data ss:Type="Number">151141.6773999999629246400</Data></Cell>
+			<Cell><Data ss:Type="Number">142307</Data></Cell>
+			<Cell><Data ss:Type="Number">8834.6773999999629246400</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2014-05-01</Data></Cell>
+			<Cell><Data ss:Type="Number">804720</Data></Cell>
+			<Cell><Data ss:Type="Number">17.91</Data></Cell>
+			<Cell><Data ss:Type="Number">153091.2739999999624464000</Data></Cell>
+			<Cell><Data ss:Type="Number">142664</Data></Cell>
+			<Cell><Data ss:Type="Number">10427.2739999999624464000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2014-06-01</Data></Cell>
+			<Cell><Data ss:Type="Number">757449</Data></Cell>
+			<Cell><Data ss:Type="Number">17.73</Data></Cell>
+			<Cell><Data ss:Type="Number">144098.3601749999646523800</Data></Cell>
+			<Cell><Data ss:Type="Number">135259</Data></Cell>
+			<Cell><Data ss:Type="Number">8839.3601749999646523800</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2014-07-01</Data></Cell>
+			<Cell><Data ss:Type="Number">773951</Data></Cell>
+			<Cell><Data ss:Type="Number">17.86</Data></Cell>
+			<Cell><Data ss:Type="Number">147237.7281583332972156200</Data></Cell>
+			<Cell><Data ss:Type="Number">138414</Data></Cell>
+			<Cell><Data ss:Type="Number">8823.7281583332972156200</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2014-08-01</Data></Cell>
+			<Cell><Data ss:Type="Number">762879</Data></Cell>
+			<Cell><Data ss:Type="Number">17.88</Data></Cell>
+			<Cell><Data ss:Type="Number">145131.3724249999643989800</Data></Cell>
+			<Cell><Data ss:Type="Number">135873</Data></Cell>
+			<Cell><Data ss:Type="Number">9258.3724249999643989800</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2014-09-01</Data></Cell>
+			<Cell><Data ss:Type="Number">747180</Data></Cell>
+			<Cell><Data ss:Type="Number">17.81</Data></Cell>
+			<Cell><Data ss:Type="Number">142144.7684999999651316000</Data></Cell>
+			<Cell><Data ss:Type="Number">132855</Data></Cell>
+			<Cell><Data ss:Type="Number">9289.7684999999651316000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2014-10-01</Data></Cell>
+			<Cell><Data ss:Type="Number">795847</Data></Cell>
+			<Cell><Data ss:Type="Number">17.78</Data></Cell>
+			<Cell><Data ss:Type="Number">151403.2596916666295271400</Data></Cell>
+			<Cell><Data ss:Type="Number">138966</Data></Cell>
+			<Cell><Data ss:Type="Number">12437.2596916666295271400</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2014-11-01</Data></Cell>
+			<Cell><Data ss:Type="Number">722766</Data></Cell>
+			<Cell><Data ss:Type="Number">17.46</Data></Cell>
+			<Cell><Data ss:Type="Number">137500.2084499999662709200</Data></Cell>
+			<Cell><Data ss:Type="Number">128366</Data></Cell>
+			<Cell><Data ss:Type="Number">9134.2084499999662709200</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2014-12-01</Data></Cell>
+			<Cell><Data ss:Type="Number">829321</Data></Cell>
+			<Cell><Data ss:Type="Number">17.76</Data></Cell>
+			<Cell><Data ss:Type="Number">157771.4092416666279650200</Data></Cell>
+			<Cell><Data ss:Type="Number">153131</Data></Cell>
+			<Cell><Data ss:Type="Number">4640.4092416666279650200</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2015-01-01</Data></Cell>
+			<Cell><Data ss:Type="Number">873673</Data></Cell>
+			<Cell><Data ss:Type="Number">17.59</Data></Cell>
+			<Cell><Data ss:Type="Number">166209.0076416666258952600</Data></Cell>
+			<Cell><Data ss:Type="Number">153700</Data></Cell>
+			<Cell><Data ss:Type="Number">12509.0076416666258952600</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2015-02-01</Data></Cell>
+			<Cell><Data ss:Type="Number">753437</Data></Cell>
+			<Cell><Data ss:Type="Number">17.84</Data></Cell>
+			<Cell><Data ss:Type="Number">143335.1106083332981729400</Data></Cell>
+			<Cell><Data ss:Type="Number">134403</Data></Cell>
+			<Cell><Data ss:Type="Number">8932.1106083332981729400</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2015-03-01</Data></Cell>
+			<Cell><Data ss:Type="Number">828487</Data></Cell>
+			<Cell><Data ss:Type="Number">17.78</Data></Cell>
+			<Cell><Data ss:Type="Number">157612.7476916666280039400</Data></Cell>
+			<Cell><Data ss:Type="Number">147271</Data></Cell>
+			<Cell><Data ss:Type="Number">10341.7476916666280039400</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2015-04-01</Data></Cell>
+			<Cell><Data ss:Type="Number">803085</Data></Cell>
+			<Cell><Data ss:Type="Number">17.7</Data></Cell>
+			<Cell><Data ss:Type="Number">152780.2288749999625227000</Data></Cell>
+			<Cell><Data ss:Type="Number">142164</Data></Cell>
+			<Cell><Data ss:Type="Number">10616.2288749999625227000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2015-05-01</Data></Cell>
+			<Cell><Data ss:Type="Number">784373</Data></Cell>
+			<Cell><Data ss:Type="Number">17.74</Data></Cell>
+			<Cell><Data ss:Type="Number">149220.4268083332967292600</Data></Cell>
+			<Cell><Data ss:Type="Number">139145</Data></Cell>
+			<Cell><Data ss:Type="Number">10075.4268083332967292600</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2015-06-01</Data></Cell>
+			<Cell><Data ss:Type="Number">768724</Data></Cell>
+			<Cell><Data ss:Type="Number">17.92</Data></Cell>
+			<Cell><Data ss:Type="Number">146243.3349666666307928800</Data></Cell>
+			<Cell><Data ss:Type="Number">137780</Data></Cell>
+			<Cell><Data ss:Type="Number">8463.3349666666307928800</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2015-07-01</Data></Cell>
+			<Cell><Data ss:Type="Number">778769</Data></Cell>
+			<Cell><Data ss:Type="Number">17.76</Data></Cell>
+			<Cell><Data ss:Type="Number">148154.3125083332969907800</Data></Cell>
+			<Cell><Data ss:Type="Number">138295</Data></Cell>
+			<Cell><Data ss:Type="Number">9859.3125083332969907800</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2015-08-01</Data></Cell>
+			<Cell><Data ss:Type="Number">745295</Data></Cell>
+			<Cell><Data ss:Type="Number">17.74</Data></Cell>
+			<Cell><Data ss:Type="Number">141786.1629583332985529000</Data></Cell>
+			<Cell><Data ss:Type="Number">132209</Data></Cell>
+			<Cell><Data ss:Type="Number">9577.1629583332985529000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2015-09-01</Data></Cell>
+			<Cell><Data ss:Type="Number">745365</Data></Cell>
+			<Cell><Data ss:Type="Number">17.82</Data></Cell>
+			<Cell><Data ss:Type="Number">141799.4798749999652163000</Data></Cell>
+			<Cell><Data ss:Type="Number">132845</Data></Cell>
+			<Cell><Data ss:Type="Number">8954.4798749999652163000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2015-10-01</Data></Cell>
+			<Cell><Data ss:Type="Number">784748</Data></Cell>
+			<Cell><Data ss:Type="Number">17.34</Data></Cell>
+			<Cell><Data ss:Type="Number">149291.7674333332967117600</Data></Cell>
+			<Cell><Data ss:Type="Number">136052</Data></Cell>
+			<Cell><Data ss:Type="Number">13239.7674333332967117600</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2015-11-01</Data></Cell>
+			<Cell><Data ss:Type="Number">726261</Data></Cell>
+			<Cell><Data ss:Type="Number">17.61</Data></Cell>
+			<Cell><Data ss:Type="Number">138165.1030749999661078200</Data></Cell>
+			<Cell><Data ss:Type="Number">127902</Data></Cell>
+			<Cell><Data ss:Type="Number">10263.1030749999661078200</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2015-12-01</Data></Cell>
+			<Cell><Data ss:Type="Number">785965</Data></Cell>
+			<Cell><Data ss:Type="Number">18.09</Data></Cell>
+			<Cell><Data ss:Type="Number">149523.2915416666299883000</Data></Cell>
+			<Cell><Data ss:Type="Number">142147</Data></Cell>
+			<Cell><Data ss:Type="Number">7376.2915416666299883000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2016-01-01</Data></Cell>
+			<Cell><Data ss:Type="Number">795097</Data></Cell>
+			<Cell><Data ss:Type="Number">17.52</Data></Cell>
+			<Cell><Data ss:Type="Number">151260.5784416666295621400</Data></Cell>
+			<Cell><Data ss:Type="Number">139270</Data></Cell>
+			<Cell><Data ss:Type="Number">11990.5784416666295621400</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2016-02-01</Data></Cell>
+			<Cell><Data ss:Type="Number">772434</Data></Cell>
+			<Cell><Data ss:Type="Number">17.77</Data></Cell>
+			<Cell><Data ss:Type="Number">146949.1315499999639530800</Data></Cell>
+			<Cell><Data ss:Type="Number">137234</Data></Cell>
+			<Cell><Data ss:Type="Number">9715.1315499999639530800</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2016-03-01</Data></Cell>
+			<Cell><Data ss:Type="Number">838004</Data></Cell>
+			<Cell><Data ss:Type="Number">17.65</Data></Cell>
+			<Cell><Data ss:Type="Number">159423.2776333332942264800</Data></Cell>
+			<Cell><Data ss:Type="Number">147940</Data></Cell>
+			<Cell><Data ss:Type="Number">11483.2776333332942264800</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2016-04-01</Data></Cell>
+			<Cell><Data ss:Type="Number">787893</Data></Cell>
+			<Cell><Data ss:Type="Number">17.3</Data></Cell>
+			<Cell><Data ss:Type="Number">149890.0774749999632316600</Data></Cell>
+			<Cell><Data ss:Type="Number">136296</Data></Cell>
+			<Cell><Data ss:Type="Number">13594.0774749999632316600</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2016-05-01</Data></Cell>
+			<Cell><Data ss:Type="Number">769173</Data></Cell>
+			<Cell><Data ss:Type="Number">17.45</Data></Cell>
+			<Cell><Data ss:Type="Number">146328.7534749999641052600</Data></Cell>
+			<Cell><Data ss:Type="Number">134195</Data></Cell>
+			<Cell><Data ss:Type="Number">12133.7534749999641052600</Data></Cell>
+		</Row>	</Table>
+</Worksheet>
+</Workbook>
