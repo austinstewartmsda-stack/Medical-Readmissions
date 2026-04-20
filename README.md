@@ -1,17 +1,102 @@
 # Medical Readmission Project
+
+## What I did
+
+I looked at avoided readmissions and readmission rates over time to answer a simple question.
+
+> Are higher avoided readmissions actually lowering the readmission rate.
+
+I built a dashboard to track trends, compare the two metrics, and see where the biggest changes happen.
+
+---
+
 ## Data Storage
 
--- I stored the data in a SQL database after taking it from the initial CSV files and loading it.
-
+I stored the data in a SQL database after taking it from the initial CSV files and loading it.
 
 ![SQL Database GIF](https://raw.githubusercontent.com/austinstewartmsda-stack/MedicalReadmissions/main/gifs/SQLDataBase.gif)
 
+---
 
 ## Data Cleaning
 
 I used Excel to do some data cleaning before making visuals by using the LEFT and RIGHT functions to extract text into other columns instead of clicking repeatedly.
 
 ![Data Cleaning GIF](https://raw.githubusercontent.com/austinstewartmsda-stack/MedicalReadmissions/main/gifs/Data_Cleaning_With_Left.gif)
+
+---
+
+## Dashboard
+
+I built a dashboard to visualize avoided readmissions and compare them to the readmission rate over time.
+
+![Total Avoided Readmissions](image/Addtoreadmitgithub.png)
+
+---
+
+## What the data shows
+
+I am working with two main metrics.
+
+Avoided readmissions in thousands.
+
+Average readmission rate.
+
+The data is monthly, which allows me to analyze both short term changes and long term trends.
+
+---
+
+## What I found
+
+### 1. Most avoided readmissions happen between 2012 and 2015.
+
+Avoided readmissions are very low from 2008 to 2011.
+
+They increase sharply starting in 2012, peak around 2013 to 2015, and then drop in 2016.
+
+This shows most of the impact is concentrated in a short period.
+
+---
+
+### 2. The readmission rate steadily goes down.
+
+The readmission rate starts around 19 percent and slowly drops each year.
+
+The biggest drop happens between 2011 and 2013.
+
+After that, it keeps going down, but more slowly.
+
+---
+
+### 3. The biggest improvements happen in 2012 and 2013.
+
+When I look at year over year improvement, 2012 shows a large jump and 2013 is the highest improvement point.
+
+After 2013, improvements get smaller.
+
+This lines up with the spike in avoided readmissions.
+
+---
+
+### 4. There is a clear shift around 2012.
+
+Before 2012, there were low avoided readmissions and very small improvements.
+
+After 2012, I found that avoided readmissions increase quickly and I found that the readmission rate drops faster.
+
+---
+
+### 5. 2016 does not follow the same pattern.
+
+Avoided readmissions drop in 2016.
+
+But the readmission rate still goes down and improvement is still positive.
+
+So I ask.
+
+> If avoided readmissions are dropping, what is still pushing the rate down.
+
+This suggests avoided readmissions are not the only driver and other factors may also be contributing.
 
 ---
 
@@ -28,7 +113,7 @@ from `ffs-medicare-30-day-readmission-rate-puf`
 where year(str_to_date(`ffs-medicare-30-day-readmission-rate-puf`.`Service_Month_Date`,'%Y-%m-%d')) = 2011
 group by `Service_Date`
 order by `Service_Date`;
-```
+````
 
 ```sql
 CREATE ALGORITHM=UNDEFINED DEFINER=`root`@`localhost` SQL SECURITY DEFINER VIEW `avg_monthly_readmit_rate_2012` AS 
@@ -65,134 +150,19 @@ order by `Service_Date`;
 
 I’m using R² to understand how consistent the trend is over time. A higher R² means the trendline explains the data well, while a lower R² means the data is more scattered and less predictable.
 
-In 2011, the R² is around 0.69. This shows the downward trend is fairly consistent, but there is still some variation.
+In 2011, the R² is around 0.69, which shows the downward trend is fairly consistent, but there is still some variation.
 
 ![Average Readmission Rate 2011](image/Average_Readmit_Rate_2011.png)
 
-In 2012, the R² increases to about 0.72. This is the strongest trend, meaning the decrease in readmission rates is the most consistent and predictable.
+In 2012, the R² increases to about 0.72, which is the strongest trend and means the decrease in readmission rates is the most consistent and predictable.
 
 ![Average Readmission Rate 2012](image/Average_Readmit_Rate_2012.png)
 
-In 2013, the R² drops to around 0.62. The trend is still there, but there is more variability.
+In 2013, the R² drops to around 0.62, which means the trend is still there, but there is more variability.
 
 ![Average Readmission Rate 2013](image/Average_Readmit_Rate_2013.png)
 
-In 2014, the R² drops to about 0.27. At this point, the linear trend is not explaining much of the data, which suggests other factors are influencing the rate.
-
----
-
-## What I did
-
-I looked at avoided readmissions and readmission rates over time to answer a simple question:
-
-> Are higher avoided readmissions actually lowering the readmission rate
-
-I built a dashboard to track trends, compare the two metrics, and see where the biggest changes happen.
-
----
-
-## Dashboard
-
-![Total Avoided Readmissions](image/Addtoreadmitgithub.png)
-
----
-
-## Videos Used To Help
-
-[![Excel for Data Analytics – Full Course](https://img.youtube.com/vi/pCJ15nGFgVg/0.jpg)](https://www.youtube.com/watch?v=pCJ15nGFgVg&t=10893s)
-
-[![SQL Full Course for Beginners (30 Hours) – From Zero to Hero](https://img.youtube.com/vi/SSKVgrwhzus/0.jpg)](https://www.youtube.com/watch?v=SSKVgrwhzus&list=PLNcg_FV9n7qZY_2eAtUzEUulNjTJREhQe)
-
----
-
-## What the data shows
-
-I am working with two main metrics
-Avoided readmissions in thousands
-Average readmission rate
-
-The data is monthly, which allows me to analyze both short term changes and long term trends.
-
----
-
-## What I found
-
-### 1. Most avoided readmissions happen between 2012 and 2015
-
-Avoided readmissions are very low from 2008 to 2011.
-
-They increase sharply starting in 2012, peak around 2013 to 2015, and then drop in 2016.
-
-This shows most of the impact is concentrated in a short period.
-
----
-
-### 2. The readmission rate steadily goes down
-
-The readmission rate starts around 19 percent and slowly drops each year.
-
-The biggest drop happens between 2011 and 2013.
-
-After that, it keeps going down, but more slowly.
-
----
-
-### 3. The biggest improvements happen in 2012 and 2013
-
-When I look at year over year improvement
-2012 shows a large jump
-2013 is the highest improvement point
-
-After 2013, improvements get smaller.
-
-This lines up with the spike in avoided readmissions.
-
----
-
-### 4. There is a clear shift around 2012
-
-Before 2012
-There were low avoided readmissions
-There were very small improvements
-
-After 2012
-I found that avoided readmissions increase quickly
-I found that the readmission rate drops faster
-
----
-
-### 5. 2016 does not follow the same pattern
-
-Avoided readmissions drop in 2016.
-
-But the readmission rate still goes down and improvement is still positive.
-
-So I ask
-
-> If avoided readmissions are dropping, what is still pushing the rate down
-
-This suggests avoided readmissions are not the only driver and other factors may also be contributing.
-
----
-
-## Skills I used
-
-Time series analysis
-Reading trends over time
-Comparing multiple metrics
-Finding shifts in behavior
-Data storytelling
-
-10 years of Data Storytelling experience in 8 minutes
-[https://www.youtube.com/watch?v=o-eP6E2yGG8](https://www.youtube.com/watch?v=o-eP6E2yGG8)
-
----
-
-## Tools I used
-
-Excel for building charts and analysis
-PowerPoint for visual design
-SQL for data analysis and querying
+In 2014, the R² drops to about 0.27, which means the linear trend is not explaining much of the data and suggests other factors are influencing the rate.
 
 ---
 
@@ -204,19 +174,39 @@ Most of the change happens in a few key years.
 
 If I only looked at totals, I would miss that.
 
-I focus on
-When changes happen
-How strong the changes are
-If the changes stay consistent
+I focus on when changes happen, how strong the changes are, and if the changes stay consistent.
 
 ---
 
 ## What I would do next
 
-Add more data like hospital type or region
-Test the relationship between the two metrics
-Build a simple forecast
-Look into what changed around 2012
+I would add more data like hospital type or region.
+
+I would test the relationship between the two metrics.
+
+I would build a simple forecast.
+
+I would look into what changed around 2012.
+
+---
+
+## Skills I used
+
+I used time series analysis, reading trends over time, comparing multiple metrics, finding shifts in behavior, and data storytelling.
+
+I also reviewed 10 years of Data Storytelling experience in 8 minutes.
+
+[https://www.youtube.com/watch?v=o-eP6E2yGG8](https://www.youtube.com/watch?v=o-eP6E2yGG8)
+
+---
+
+## Tools I used
+
+I used Excel for building charts and analysis.
+
+I used PowerPoint for visual design.
+
+I used SQL for data analysis and querying.
 
 ---
 
