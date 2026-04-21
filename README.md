@@ -103,6 +103,8 @@ This suggests avoided readmissions are not the only driver and other factors may
 
 <img src="image/Readmit_Years_Dashboard.png" width="100%"/>
 
+![View Writing GIF](https://raw.githubusercontent.com/austinstewartmsda-stack/Medical-Readmissions/main/gifs/View_Writing.gif)
+
 ```sql
 CREATE ALGORITHM=UNDEFINED DEFINER=`root`@`localhost` SQL SECURITY DEFINER VIEW `avg_monthly_readmit_rate_2011` AS 
 select 
