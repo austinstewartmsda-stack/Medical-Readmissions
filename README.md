@@ -1,5 +1,8 @@
 # Medical Readmission Project
 
+## Tableau Visuals
+![Average Readmission Rate Decreasing Through 2012](https://raw.githubusercontent.com/austinstewartmsda-stack/MedicalReadmissions/main/gifs/Average_Readmission_Rate_Decreasing_Through_2012.gif)
+
 ## What I did
 
 I looked at avoided readmissions and readmission rates over time to answer a simple question.
@@ -15,6 +18,7 @@ I built a dashboard to track trends, compare the two metrics, and see where the 
 I stored the data in a SQL database after taking it from the initial CSV files and loading it.
 
 ![SQL Database GIF](https://raw.githubusercontent.com/austinstewartmsda-stack/Medical-Readmissions/main/gifs/SQLDataBase.gif)
+Average_Readmission_Rate_Decreasing_Through_2012.gif
 ---
 
 ## Data Cleaning
@@ -204,6 +208,8 @@ I also reviewed 10 years of Data Storytelling experience in 8 minutes.
 ## Tools I used
 
 I used Excel for building charts and analysis.
+
+I used Tableau for making dashboards.
 
 I used PowerPoint for visual design.
 
@@ -469,3 +475,5 @@ I did not want one large query that does everything.
 I wanted clear logic, reusable pieces, and the ability to debug each step.
 
 This makes it easier to trust the results and extend the analysis later.
+
+![Average Readmission Rate Decreasing Through 2012](https://raw.githubusercontent.com/austinstewartmsda-stack/MedicalReadmissions/main/gifs/Average_Readmission_Rate_Decreasing_Through_2012.gif)
