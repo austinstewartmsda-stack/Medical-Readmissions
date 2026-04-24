@@ -1,5 +1,7 @@
 # Medical Readmission Project
 
+![Hospital Image](https://raw.githubusercontent.com/austinstewartmsda-stack/Medical-Readmissions/main/image/hospital.jpg)
+
 ## Tableau Visuals
 ![Average Readmission Rate Decreasing Through 2012](https://raw.githubusercontent.com/austinstewartmsda-stack/Medical-Readmissions/main/gifs/Average_Readmission_Rate_Decreasing_Through_2012.gif)
 
