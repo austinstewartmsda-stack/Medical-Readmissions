@@ -483,3 +483,23 @@ I wanted clear logic, reusable pieces, and the ability to debug each step.
 This makes it easier to trust the results and extend the analysis later.
 
 ![Average Readmission Rate Decreasing Through 2012](https://raw.githubusercontent.com/austinstewartmsda-stack/MedicalReadmissions/main/gifs/Average_Readmission_Rate_Decreasing_Through_2012.gif)
+
+
+
+<div align="center">
+
+## References
+
+Centers for Medicare & Medicaid Services. (n.d.). *Medicare hospital quality data*. https://data.cms.gov  
+
+Barousse, L. (2023). *Excel for data analytics – Full course* [Video]. YouTube. https://www.youtube.com/watch?v=pCJ15nGFgVg  
+
+Data with Baraa. (2023). *SQL full course for beginners (30 hours) – From zero to hero* [Video]. YouTube. https://www.youtube.com/watch?v=SSKVgrwhzus  
+
+Microsoft. (n.d.). *Excel functions (by category)*. https://support.microsoft.com/excel  
+
+Tableau Software. (n.d.). *Tableau documentation*. https://help.tableau.com  
+
+MySQL. (n.d.). *MySQL 8.0 reference manual*. https://dev.mysql.com/doc/  
+
+</div>
