@@ -1,4 +1,8 @@
+<div align="center">
+
 # Medical Readmission Project
+Austin Stewart MSDS 
+</div>
 
 <img src="https://raw.githubusercontent.com/austinstewartmsda-stack/Medical-Readmissions/main/image/hospital.jpg" style="width:100%; border-radius:12px;">
 
