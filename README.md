@@ -473,6 +473,8 @@ group by t.Policy_Period;
 ```
 
 ---
+## Recommendations 
+  -- This is where I'm going to put my recommendations based on the data. 
 
 ## Why I built it this way
 
