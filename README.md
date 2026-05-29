@@ -2,6 +2,18 @@
 
 # Medical Readmission Project
 Austin Stewart MSDS 
+
+## Business Recommendations
+
+### Recommendation 1
+
+Continue supporting initiatives associated with the reduction in readmission rates from 19.02% in 2008 to 17.54% in 2016 during the study period.
+
+### Recommendation 2
+
+Review differences between the highest readmission period (19.53% in January 2009) and the lowest readmission period (17.30% in April 2016) to identify opportunities for further improvement.
+
+
 </div>
 
 <img src="https://raw.githubusercontent.com/austinstewartmsda-stack/Medical-Readmissions/main/image/hospital.jpg" style="width:100%; border-radius:12px;">
