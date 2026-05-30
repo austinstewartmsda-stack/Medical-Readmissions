@@ -14,6 +14,7 @@ Non business metadata columns
 Spacing issues
 Inconsitent Date Formats
 
+## Data Cleaning Process
 This showed me that I needed to perform some data cleaning.
 I removed duplicates, ensured the data was standardized to consistent date formats, fixed the numerics being shown as dates, got rid of leading and trailing spaces, and then checked for outliers.
 
