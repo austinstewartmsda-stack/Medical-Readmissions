@@ -19,6 +19,24 @@ Inconsitent Date Formats
 This showed me that I needed to perform some data cleaning.
 I removed duplicates, ensured the data was standardized to consistent date formats, fixed the numerics being shown as dates, got rid of leading and trailing spaces, and then checked for outliers.
 
+## Issues/Resolutions
+
+Duplicate rows
+
+I removed duplicate records.
+
+Numeric fields stored as text
+
+I converted them to numerics.
+
+Date inconsistencies
+
+I standardized them to YYYY-MM-DD.
+
+Leading/trailing spaces
+
+I used TRIM functions to emiminate the whitespace.
+
 ## Business Recommendations
 ![Top and Bottom Readmission Values](https://raw.githubusercontent.com/austinstewartmsda-stack/Medical-Readmissions/main/image/highlowreadmits.png)
 
