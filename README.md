@@ -16,8 +16,7 @@ Spacing issues
 Inconsitent Date Formats
 
 ## Data Cleaning Process
-This showed me that I needed to perform some data cleaning.
-I removed duplicates, ensured the data was standardized to consistent date formats, fixed the numerics being shown as dates, got rid of leading and trailing spaces, and then checked for outliers.
+This showed me that I needed to perform some data cleaning. I removed duplicate records, standardized date formats, converted numeric fields stored as text into numeric data types, removed unnecessary metadata columns, standardized text values, and removed leading and trailing whitespace.
 
 ## Issues/Resolutions
 
@@ -58,17 +57,15 @@ Review differences between the highest readmission period (19.53% in January 200
 
 ## What I did
 
-I looked at avoided readmissions and readmission rates over time to answer a simple question.
+The cleaned dataset contains 101 monthly observations from January 2008 to May 2016.
 
-> Are higher avoided readmissions actually lowering the readmission rate.
+I analyzed hospital readmission rates between 2008 and 2016 to identify trends, seasonal patterns, and periods of accelerated improvement.
 
-I built a dashboard to track trends, compare the two metrics, and see where the biggest changes happen.
-
-
+I also developed a derived avoided readmissions metric to estimate the impact of declining readmission rates over time.
 
 ## Data Storage
 
-I stored the data in a SQL database after taking it from the initial CSV files and loading it.
+I loaded the cleaned CSV data into a SQL database and used SQL views for trend analysis, seasonality analysis, rolling averages, year-over-year comparisons, and avoided readmission calculations.
 
 ![SQL Database GIF](https://raw.githubusercontent.com/austinstewartmsda-stack/Medical-Readmissions/main/gifs/SQLDataBase.gif)
 
