@@ -2,6 +2,7 @@
 
 # Medical Readmission Project
 Austin Stewart MSDS 
+<img src="https://raw.githubusercontent.com/austinstewartmsda-stack/Medical-Readmissions/main/image/hospital.jpg" style="width:100%; border-radius:12px;">
 
 ## Data Quality Issues
 The data was dirty initially. I identified some common issues within the data.
@@ -32,7 +33,7 @@ Review differences between the highest readmission period (19.53% in January 200
 
 </div>
 
-<img src="https://raw.githubusercontent.com/austinstewartmsda-stack/Medical-Readmissions/main/image/hospital.jpg" style="width:100%; border-radius:12px;">
+
 
 ## Tableau Visuals
 ![Average Readmission Rate Decreasing Through 2012](https://raw.githubusercontent.com/austinstewartmsda-stack/Medical-Readmissions/main/gifs/Average_Readmission_Rate_Decreasing_Through_2012.gif)
