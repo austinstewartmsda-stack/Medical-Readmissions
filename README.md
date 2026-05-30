@@ -31,7 +31,7 @@ I converted them to numerics.
 
 Date inconsistencies
 
-I standardized them to YYYY-MM-DD.
+I standardized them to a consistent format.
 
 Leading/trailing spaces
 
