@@ -447,10 +447,6 @@ from `ffs-medicare-30-day-readmission-rate-puf`
 group by t.Policy_Period;
 ```
 
-
-## Recommendations 
-  -- This is where I'm going to put my recommendations based on the data. 
-
 ## Why I built it this way
 
 I did not want one large query that does everything.
