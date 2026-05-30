@@ -4,6 +4,9 @@
 Austin Stewart MSDS 
 <img src="https://raw.githubusercontent.com/austinstewartmsda-stack/Medical-Readmissions/main/image/hospital.jpg" style="width:100%; border-radius:12px;">
 
+## Project Overview
+I analyzed hospital readmission data from 2008 through 2016 to identify trends, seasonal patterns, and periods of accelerated improvement. My project demonstrates data cleaning, SQL analysis, Tableau dashboard development, and data storytelling.
+
 ## Data Quality Issues
 The data was dirty initially. I identified some common issues within the data.
 ![Original Data](https://raw.githubusercontent.com/austinstewartmsda-stack/Medical-Readmissions/main/image/Original_Dirty_Data.png)
@@ -72,7 +75,7 @@ I loaded the cleaned CSV data into a SQL database and used SQL views for trend a
 
 ## Data Cleaning
 
-I used Excel to do some data cleaning before making visuals by using the LEFT and RIGHT functions to extract text into other columns instead of clicking repeatedly.
+I used Excel functions such as LEFT, RIGHT, and TRIM to standardize text fields, clean inconsistent values, and prepare the dataset for analysis.
 
 ![Data Cleaning GIF](https://raw.githubusercontent.com/austinstewartmsda-stack/Medical-Readmissions/main/gifs/Data_Cleaning_With_Left.gif)
 
@@ -218,9 +221,6 @@ The data shows that improvements are not evenly spread over time. Most of the ch
 
 I used time series analysis, reading trends over time, comparing multiple metrics, finding shifts in behavior, and data storytelling.
 
-I also reviewed 10 years of Data Storytelling experience in 8 minutes.
-
-[https://www.youtube.com/watch?v=o-eP6E2yGG8](https://www.youtube.com/watch?v=o-eP6E2yGG8)
 
 ## Tools I used
 
