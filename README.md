@@ -8,7 +8,7 @@ Austin Stewart MSDS
 
 ### Recommendation 1
 
-Continue supporting initiatives associated with the reduction in readmission rates from 19.02% in 2008 to 17.54% in 2016 during the study period.
+Continue supporting initiatives associated with the reduction in readmission rates from 19.36% in 2008 to 17.30% in 2016 during the study period.
 
 ### Recommendation 2
 
