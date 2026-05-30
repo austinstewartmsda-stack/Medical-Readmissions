@@ -3,6 +3,20 @@
 # Medical Readmission Project
 Austin Stewart MSDS 
 
+## Data Quality Issues
+The data was dirty initially. I identified some common issues within the data.
+![Original Data](https://raw.githubusercontent.com/austinstewartmsda-stack/Medical-Readmissions/main/image/Original_Dirty_Data.png)
+
+Duplicate records 
+Text standardization issues
+Numeric fields imported as strings 
+Non business metadata columns 
+Spacing issues
+Inconsitent Date Formats
+
+This showed me that I needed to perform some data cleaning.
+I removed duplicates, ensured the data was standardized to consistent date formats, fixed the numerics being shown as dates, got rid of leading and trailing spaces, and then checked for outliers.
+
 ## Business Recommendations
 ![Top and Bottom Readmission Values](https://raw.githubusercontent.com/austinstewartmsda-stack/Medical-Readmissions/main/image/highlowreadmits.png)
 
