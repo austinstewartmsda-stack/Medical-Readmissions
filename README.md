@@ -4,7 +4,7 @@
 Austin Stewart MSDS 
 
 ## Business Recommendations
-![Top and Bottom Readmission Values](https://raw.githubusercontent.com/austinstewartmsda-stack/Medical-Readmissions/main/image/TopAndBottomValues.png)
+![Top and Bottom Readmission Values](https://raw.githubusercontent.com/austinstewartmsda-stack/Medical-Readmissions/main/image/highlowreadmits.png)
 
 ### Recommendation 1
 
