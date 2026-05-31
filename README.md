@@ -8,7 +8,7 @@ Austin Stewart MSDS
 I analyzed hospital readmission data from 2008 through 2016 to identify trends, seasonal patterns, and periods of accelerated improvement. My project demonstrates data cleaning, SQL analysis, Tableau dashboard development, and data storytelling.
 
 ## Data Quality Issues
-The data was dirty initially. I identified some common issues within the data.
+The data was dirty when I decided to start the project. I identified some common issues within the data.
 ![Original Data](https://raw.githubusercontent.com/austinstewartmsda-stack/Medical-Readmissions/main/image/Original_Dirty_Data.png)
 
 Duplicate records 
