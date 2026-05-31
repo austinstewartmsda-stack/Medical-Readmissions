@@ -97,6 +97,7 @@ Beginning in 2012, avoided readmissions increased rapidly while readmission rate
 ### 5. 2016 does not follow the same pattern.
 
 Avoided readmissions drop in 2016. But the readmission rate still goes down and improvement is still positive. This made me wonder if avoided readmissions are dropping, what is still pushing the rate down. This suggests avoided readmissions are not the only driver and other factors may also be contributing.
+<img src="image/Proof_Statement_5.png" width="100%"/>
 
 
 # Business Recommendations
