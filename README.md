@@ -198,6 +198,10 @@ Instead of writing one large query, I broke the logic into smaller pieces so I c
 
 [https://github.com/austinstewartmsda-stack/Medical-Readmissions/new/main/SQL](https://github.com/austinstewartmsda-stack/Medical-Readmissions/blob/main/SQL/SQL_Views.sql)
 
+## The Tableau Notebooks can be viewed here. 
+
+[https://github.com/austinstewartmsda-stack/Medical-Readmissions/new/main/SQL](https://github.com/austinstewartmsda-stack/Medical-Readmissions/blob/main/Tableau)
+
 ## Why I built it this way
 
 I did not want one large query that does everything.
