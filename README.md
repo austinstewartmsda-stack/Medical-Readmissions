@@ -200,7 +200,7 @@ Instead of writing one large query, I broke the logic into smaller pieces so I c
 
 ## The Tableau Notebooks can be viewed here. 
 
-[https://github.com/austinstewartmsda-stack/Medical-Readmissions/new/main/SQL](https://github.com/austinstewartmsda-stack/Medical-Readmissions/blob/main/Tableau)
+[https://github.com/austinstewartmsda-stack/Medical-Readmissions/new/main/Tableau](https://github.com/austinstewartmsda-stack/Medical-Readmissions/blob/main/Tableau)
 
 ## Why I built it this way
 
