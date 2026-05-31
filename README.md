@@ -85,6 +85,8 @@ The readmission rate starts around 19 percent and slowly drops each year. The bi
 ### 3. The biggest improvements happen in 2012 and 2013.
 
 When I look at year over year improvement, 2012 shows a large jump and 2013 is the highest improvement point. After 2013, improvements get smaller. This lines up with the spike in avoided readmissions.
+![Biggest Improvements](image/Proof_Statement_3.png)
+<img src="image/Proof_Statement_3.png" width="100%"/>
 
 ### 4. There is a clear shift around 2012.
 
