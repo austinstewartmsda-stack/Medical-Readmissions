@@ -66,6 +66,7 @@ https://github.com/austinstewartmsda-stack/Medical-Readmissions/tree/main/Tablea
 # Key Findings
 
 ![Total Avoided Readmissions](image/Addtoreadmitgithub.png)
+<img src="image/Readmit_Years_Dashboard.png" width="100%"/>
 
 ### 1. Most avoided readmissions happen between 2012 and 2015.
 
