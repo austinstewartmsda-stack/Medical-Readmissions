@@ -41,18 +41,13 @@
 I analyzed hospital readmission data from 2008 through 2016 to identify trends, seasonal patterns, and periods of accelerated improvement. My project demonstrates data cleaning, SQL analysis, Tableau dashboard development, and data storytelling.
 
 
-# Project Stack
+# Tools Used
 
-**Tools:** SQL, Tableau, Excel
+SQL
 
-**Skills Demonstrated:**
+Tableau
 
-* Data Cleaning
-* Time Series Analysis
-* Trend Analysis
-* Dashboard Development
-* Data Storytelling
-* Business Recommendations
+Excel
 
 **Dataset:** CMS Hospital Readmission Data (2008–2016)
 
@@ -70,6 +65,8 @@ https://github.com/austinstewartmsda-stack/Medical-Readmissions/tree/main/Tablea
 
 # Key Findings
 
+![Total Avoided Readmissions](image/Addtoreadmitgithub.png)
+
 ### 1. Most avoided readmissions happen between 2012 and 2015.
 
 Avoided readmissions are very low from 2008 to 2011.
@@ -81,6 +78,8 @@ This shows most of the impact is concentrated in a short period.
 ### 2. The readmission rate steadily goes down.
 
 The readmission rate starts around 19 percent and slowly drops each year. The biggest drop happens between 2011 and 2013. After that, it keeps going down, but the rate is slower.
+
+![Average Readmission Rate Decreasing Through 2012](https://raw.githubusercontent.com/austinstewartmsda-stack/Medical-Readmissions/main/gifs/Average_Readmission_Rate_Decreasing_Through_2012.gif)
 
 ### 3. The biggest improvements happen in 2012 and 2013.
 
@@ -108,16 +107,6 @@ Continue supporting initiatives associated with the reduction in readmission rat
 ### Recommendation 2
 
 Review differences between the highest readmission period (19.53% in January 2009) and the lowest readmission period (17.30% in April 2016) to identify opportunities for further improvement.
-
-
-# Dashboard
-
-![Total Avoided Readmissions](image/Addtoreadmitgithub.png)
-
-
-# Tableau Visuals
-
-![Average Readmission Rate Decreasing Through 2012](https://raw.githubusercontent.com/austinstewartmsda-stack/Medical-Readmissions/main/gifs/Average_Readmission_Rate_Decreasing_Through_2012.gif)
 
 
 # What I Did
