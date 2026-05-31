@@ -89,9 +89,10 @@ When I look at year over year improvement, 2012 shows a large jump and 2013 is t
 
 ### 4. There is a clear shift around 2012.
 
-Before 2012, there were low avoided readmissions and very small improvements.
+Before 2012, avoided readmissions remained relatively low and readmission rates changed gradually.
 
-After 2012, I found that avoided readmissions increase quickly and I found that the readmission rate drops faster.
+Beginning in 2012, avoided readmissions increased rapidly while readmission rates continued to decline.
+<img src="image/Number_4_proof.png" width="100%"/>
 
 ### 5. 2016 does not follow the same pattern.
 
