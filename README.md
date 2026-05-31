@@ -496,8 +496,4 @@ This makes it easier to trust the results and extend the analysis later.
 
 Centers for Medicare & Medicaid Services. (n.d.). *Medicare hospital quality data*. https://data.cms.gov  
 
-Tableau Software. (n.d.). *Tableau documentation*. https://help.tableau.com  
-
-MySQL. (n.d.). *MySQL 8.0 reference manual*. https://dev.mysql.com/doc/  
-
 </div>
