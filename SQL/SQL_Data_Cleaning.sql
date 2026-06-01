@@ -1,3 +1,6 @@
+CREATE TABLE readmit_no_duplicates AS
+    SELECT DISTINCT * FROM readmit_raw;
+
 UPDATE readmit_no_duplicates
 SET
     Service_Month = TRIM(Service_Month),
