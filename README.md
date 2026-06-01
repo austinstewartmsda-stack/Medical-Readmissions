@@ -178,6 +178,13 @@ I used Excel functions such as LEFT, RIGHT, and TRIM to standardize text fields,
 ![Data Cleaning GIF](https://raw.githubusercontent.com/austinstewartmsda-stack/Medical-Readmissions/main/gifs/Data_Cleaning_With_Left.gif)
 ![Data Cleaning GIF](https://raw.githubusercontent.com/austinstewartmsda-stack/Medical-Readmissions/main/gifs/Removing_Commas_From_Numeric_Fields-ezgif.com-optimize.gif)
 
+# Data Validation
+
+After cleaning, I checked the row count, looked for duplicates and missing values, confirmed the data types, and reviewed the data to make sure that my code had worked properly.
+
+The data cleaning and validation code can be found here. 
+https://github.com/austinstewartmsda-stack/Medical-Readmissions/blob/main/SQL/SQL_Data_Cleaning.sql
+
 
 
 # Data Storage
