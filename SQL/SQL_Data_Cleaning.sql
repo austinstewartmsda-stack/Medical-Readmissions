@@ -123,3 +123,32 @@ SELECT
 FROM readmit_no_duplicates
 ORDER BY Service_Date;
 
+-- I did quick data validation
+
+SELECT 
+    COUNT(*) AS total_rows
+FROM
+    readmit_clean;
+
+SELECT 
+    service_month_date, COUNT(*)
+FROM
+    readmit_clean
+GROUP BY service_month_date
+HAVING COUNT(*) > 1;
+
+DESCRIBE readmit_clean;
+
+SELECT 
+    MIN(service_month_date) AS first_month,
+    MAX(service_month_date) AS last_month
+FROM
+    readmit_clean;
+
+SELECT 
+    *
+FROM
+    readmit_clean
+ORDER BY service_month_date
+LIMIT 10;
+
