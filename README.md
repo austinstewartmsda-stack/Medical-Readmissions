@@ -176,6 +176,8 @@ I used TRIM functions to eliminate the whitespace.
 I used Excel functions such as LEFT, RIGHT, and TRIM to standardize text fields, clean inconsistent values, and prepare the dataset for analysis.
 
 ![Data Cleaning GIF](https://raw.githubusercontent.com/austinstewartmsda-stack/Medical-Readmissions/main/gifs/Data_Cleaning_With_Left.gif)
+![Data Cleaning GIF](https://raw.githubusercontent.com/austinstewartmsda-stack/Medical-Readmissions/main/gifs/Removing_Commas_From_Numeric_Fields-ezgif.com-optimize.gif)
+
 
 
 # Data Storage
