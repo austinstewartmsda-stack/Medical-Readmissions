@@ -87,14 +87,15 @@ The readmission rate starts around 19 percent and slowly drops each year. The bi
 
 ### 3. The biggest improvements happen in 2012 and 2013.
 
-When I look at year over year improvement, 2012 shows a large jump and 2013 is the highest improvement point. After 2013, improvements get smaller. This lines up with the spike in avoided readmissions.
+When I look at year over year improvement, 2012 shows a large jump following the implementation of patient education programs in the dataset and 2013 is the highest improvement point. After 2013, improvements get smaller. This lines up with the spike in avoided readmissions.
 <img src="image/Proof_Statement_3.png" width="100%"/>
 
 ### 4. There is a clear shift around 2012.
 
 Before 2012, avoided readmissions remained relatively low and readmission rates changed gradually.
 
-Beginning in 2012, avoided readmissions increased rapidly while readmission rates continued to decline.
+Beginning in 2012, avoided readmissions increased rapidly while readmission rates continued to decline. This period coincides with the activation of patient education programs in the dataset, including diabetes management and weight management initiatives.
+
 <img src="image/Number_4_proof.png" width="100%"/>
 
 ### 5. 2016 does not follow the same pattern.
@@ -174,8 +175,9 @@ I standardized them to a consistent format.
 
 I used TRIM functions to eliminate the whitespace.
 
-### Incorrect Labeling Of Program Implimentation and Continuation
-The lifestyle programs that were implimented starting in 2012 stopped being labeled correctly post 2015. I fixed this labeling issue in order to properly clean the data. 
+### Incorrect labeling of program implementation and continuation
+
+The patient education field was not labeled correctly after 2015. I corrected the labels so the program status remained consistent in the dataset.
 
 # Data Cleaning
 
