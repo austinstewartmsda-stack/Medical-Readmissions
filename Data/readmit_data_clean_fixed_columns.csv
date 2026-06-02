@@ -1,0 +1,102 @@
+service_month,index_stays,readmission_stays,readmission_rate,service_month_date,Patient_Education_Program_Status
+8-Jan,935886,181225,19.36,1/1/2008,Pre-program period
+8-Feb,931485,178331,19.14,2/1/2008,Pre-program period
+8-Mar,941802,178382,18.94,3/1/2008,Pre-program period
+8-Apr,905984,171567,18.94,4/1/2008,Pre-program period
+8-May,893809,168860,18.89,5/1/2008,Pre-program period
+8-Jun,839659,159879,19.04,6/1/2008,Pre-program period
+8-Jul,859820,163771,19.05,7/1/2008,Pre-program period
+8-Aug,844495,159695,18.91,8/1/2008,Pre-program period
+8-Sep,817662,155218,18.98,9/1/2008,Pre-program period
+8-Oct,880950,165566,18.79,10/1/2008,Pre-program period
+8-Nov,809180,152846,18.89,11/1/2008,Pre-program period
+8-Dec,876942,171304,19.53,12/1/2008,Pre-program period
+9-Jan,906141,173816,19.18,1/1/2009,Pre-program period
+9-Feb,836110,161382,19.3,2/1/2009,Pre-program period
+9-Mar,916021,174510,19.05,3/1/2009,Pre-program period
+9-Apr,881780,167479,18.99,4/1/2009,Pre-program period
+9-May,861001,162913,18.92,5/1/2009,Pre-program period
+9-Jun,848620,161625,19.05,6/1/2009,Pre-program period
+9-Jul,860252,162771,18.92,7/1/2009,Pre-program period
+9-Aug,816421,153423,18.79,8/1/2009,Pre-program period
+9-Sep,818412,155529,19,9/1/2009,Pre-program period
+9-Oct,868853,162329,18.68,10/1/2009,Pre-program period
+9-Nov,800355,149814,18.72,11/1/2009,Pre-program period
+9-Dec,858009,165647,19.31,12/1/2009,Pre-program period
+10-Jan,883740,166328,18.82,1/1/2010,Pre-program period
+10-Feb,825962,157839,19.11,2/1/2010,Pre-program period
+10-Mar,942195,177533,18.84,3/1/2010,Pre-program period
+10-Apr,880756,166706,18.93,4/1/2010,Pre-program period
+10-May,866921,163019,18.8,5/1/2010,Pre-program period
+10-Jun,850681,163454,19.21,6/1/2010,Pre-program period
+10-Jul,859616,163480,19.02,7/1/2010,Pre-program period
+10-Aug,839950,159475,18.99,8/1/2010,Pre-program period
+10-Sep,834773,158679,19.01,9/1/2010,Pre-program period
+10-Oct,864873,161547,18.68,10/1/2010,Pre-program period
+10-Nov,828111,155420,18.77,11/1/2010,Pre-program period
+10-Dec,880714,171192,19.44,12/1/2010,Pre-program period
+11-Jan,908858,172361,18.96,1/1/2011,Pre-program period
+11-Feb,841340,160881,19.12,2/1/2011,Pre-program period
+11-Mar,942221,178707,18.97,3/1/2011,Pre-program period
+11-Apr,874945,165010,18.86,4/1/2011,Pre-program period
+11-May,873712,164856,18.87,5/1/2011,Pre-program period
+11-Jun,851448,160531,18.85,6/1/2011,Pre-program period
+11-Jul,828706,156830,18.92,7/1/2011,Pre-program period
+11-Aug,847212,159460,18.82,8/1/2011,Pre-program period
+11-Sep,832384,156853,18.84,9/1/2011,Pre-program period
+11-Oct,843049,155792,18.48,10/1/2011,Pre-program period
+11-Nov,821254,153367,18.67,11/1/2011,Pre-program period
+11-Dec,862589,165337,19.17,12/1/2011,Pre-program period
+12-Jan,885655,164805,18.61,1/1/2012,"Patient education programs active (Weight Watchers referrals, diabetes management education, lifestyle coaching)"
+12-Feb,843644,157885,18.71,2/1/2012,"Patient education programs active (Weight Watchers referrals, diabetes management education, lifestyle coaching)"
+12-Mar,914945,167562,18.31,3/1/2012,"Patient education programs active (Weight Watchers referrals, diabetes management education, lifestyle coaching)"
+12-Apr,826548,151806,18.37,4/1/2012,"Patient education programs active (Weight Watchers referrals, diabetes management education, lifestyle coaching)"
+12-May,850873,156176,18.35,5/1/2012,"Patient education programs active (Weight Watchers referrals, diabetes management education, lifestyle coaching)"
+12-Jun,816450,151309,18.53,6/1/2012,"Patient education programs active (Weight Watchers referrals, diabetes management education, lifestyle coaching)"
+12-Jul,804633,147893,18.38,7/1/2012,"Patient education programs active (Weight Watchers referrals, diabetes management education, lifestyle coaching)"
+12-Aug,836246,152842,18.28,8/1/2012,"Patient education programs active (Weight Watchers referrals, diabetes management education, lifestyle coaching)"
+12-Sep,778407,140489,18.05,9/1/2012,"Patient education programs active (Weight Watchers referrals, diabetes management education, lifestyle coaching)"
+12-Oct,833277,148709,17.85,10/1/2012,"Patient education programs active (Weight Watchers referrals, diabetes management education, lifestyle coaching)"
+12-Nov,806387,146140,18.12,11/1/2012,"Patient education programs active (Weight Watchers referrals, diabetes management education, lifestyle coaching)"
+12-Dec,840028,157820,18.79,12/1/2012,"Patient education programs active (Weight Watchers referrals, diabetes management education, lifestyle coaching)"
+13-Jan,924259,165489,17.91,1/1/2013,"Patient education programs active (Weight Watchers referrals, diabetes management education, lifestyle coaching)"
+13-Feb,788370,141877,18,2/1/2013,"Patient education programs active (Weight Watchers referrals, diabetes management education, lifestyle coaching)"
+13-Mar,851633,152395,17.89,3/1/2013,"Patient education programs active (Weight Watchers referrals, diabetes management education, lifestyle coaching)"
+13-Apr,822295,145721,17.72,4/1/2013,"Patient education programs active (Weight Watchers referrals, diabetes management education, lifestyle coaching)"
+13-May,827477,147583,17.84,5/1/2013,"Patient education programs active (Weight Watchers referrals, diabetes management education, lifestyle coaching)"
+13-Jun,771125,136699,17.73,6/1/2013,"Patient education programs active (Weight Watchers referrals, diabetes management education, lifestyle coaching)"
+13-Jul,787185,141025,17.92,7/1/2013,"Patient education programs active (Weight Watchers referrals, diabetes management education, lifestyle coaching)"
+13-Aug,798634,142413,17.83,8/1/2013,"Patient education programs active (Weight Watchers referrals, diabetes management education, lifestyle coaching)"
+13-Sep,748034,131179,17.54,9/1/2013,"Patient education programs active (Weight Watchers referrals, diabetes management education, lifestyle coaching)"
+13-Oct,786769,136775,17.38,10/1/2013,"Patient education programs active (Weight Watchers referrals, diabetes management education, lifestyle coaching)"
+13-Nov,749715,130969,17.47,11/1/2013,"Patient education programs active (Weight Watchers referrals, diabetes management education, lifestyle coaching)"
+13-Dec,774558,141060,18.21,12/1/2013,"Patient education programs active (Weight Watchers referrals, diabetes management education, lifestyle coaching)"
+14-Jan,838098,148911,17.77,1/1/2014,"Patient education programs active (Weight Watchers referrals, diabetes management education, lifestyle coaching)"
+14-Feb,740487,131056,17.7,2/1/2014,"Patient education programs active (Weight Watchers referrals, diabetes management education, lifestyle coaching)"
+14-Mar,801741,142626,17.79,3/1/2014,"Patient education programs active (Weight Watchers referrals, diabetes management education, lifestyle coaching)"
+14-Apr,794472,142307,17.91,4/1/2014,"Patient education programs active (Weight Watchers referrals, diabetes management education, lifestyle coaching)"
+14-May,804720,142664,17.73,5/1/2014,"Patient education programs active (Weight Watchers referrals, diabetes management education, lifestyle coaching)"
+14-Jun,757449,135259,17.86,6/1/2014,"Patient education programs active (Weight Watchers referrals, diabetes management education, lifestyle coaching)"
+14-Jul,773951,138414,17.88,7/1/2014,"Patient education programs active (Weight Watchers referrals, diabetes management education, lifestyle coaching)"
+14-Aug,762879,135873,17.81,8/1/2014,"Patient education programs active (Weight Watchers referrals, diabetes management education, lifestyle coaching)"
+14-Sep,747180,132855,17.78,9/1/2014,"Patient education programs active (Weight Watchers referrals, diabetes management education, lifestyle coaching)"
+14-Oct,795847,138966,17.46,10/1/2014,"Patient education programs active (Weight Watchers referrals, diabetes management education, lifestyle coaching)"
+14-Nov,722766,128366,17.76,11/1/2014,"Patient education programs active (Weight Watchers referrals, diabetes management education, lifestyle coaching)"
+14-Dec,829321,153131,18.46,12/1/2014,"Patient education programs active (Weight Watchers referrals, diabetes management education, lifestyle coaching)"
+15-Jan,873673,153700,17.59,1/1/2015,"Patient education programs active (Weight Watchers referrals, diabetes management education, lifestyle coaching)"
+15-Feb,753437,134403,17.84,2/1/2015,"Patient education programs active (Weight Watchers referrals, diabetes management education, lifestyle coaching)"
+15-Mar,828487,147271,17.78,3/1/2015,"Patient education programs active (Weight Watchers referrals, diabetes management education, lifestyle coaching)"
+15-Apr,803085,142164,17.7,4/1/2015,"Patient education programs active (Weight Watchers referrals, diabetes management education, lifestyle coaching)"
+15-May,784373,139145,17.74,5/1/2015,"Patient education programs active (Weight Watchers referrals, diabetes management education, lifestyle coaching)"
+15-Jun,768724,137780,17.92,6/1/2015,"Patient education programs active (Weight Watchers referrals, diabetes management education, lifestyle coaching)"
+15-Jul,778769,138295,17.76,7/1/2015,"Patient education programs active (Weight Watchers referrals, diabetes management education, lifestyle coaching)"
+15-Aug,745295,132209,17.74,8/1/2015,"Patient education programs active (Weight Watchers referrals, diabetes management education, lifestyle coaching)"
+15-Sep,745365,132845,17.82,9/1/2015,"Patient education programs active (Weight Watchers referrals, diabetes management education, lifestyle coaching)"
+15-Oct,784748,136052,17.34,10/1/2015,"Patient education programs active (Weight Watchers referrals, diabetes management education, lifestyle coaching)"
+15-Nov,726261,127902,17.61,11/1/2015,"Patient education programs active (Weight Watchers referrals, diabetes management education, lifestyle coaching)"
+15-Dec,785965,142147,18.09,12/1/2015,"Patient education programs active (Weight Watchers referrals, diabetes management education, lifestyle coaching)"
+16-Jan,795097,139270,17.52,1/1/2016,"Patient education programs active (Weight Watchers referrals, diabetes management education, lifestyle coaching)"
+16-Feb,772434,137234,17.77,2/1/2016,"Patient education programs active (Weight Watchers referrals, diabetes management education, lifestyle coaching)"
+16-Mar,838004,147940,17.65,3/1/2016,"Patient education programs active (Weight Watchers referrals, diabetes management education, lifestyle coaching)"
+16-Apr,787893,136296,17.3,4/1/2016,"Patient education programs active (Weight Watchers referrals, diabetes management education, lifestyle coaching)"
+16-May,769173,134195,17.45,5/1/2016,"Patient education programs active (Weight Watchers referrals, diabetes management education, lifestyle coaching)"
