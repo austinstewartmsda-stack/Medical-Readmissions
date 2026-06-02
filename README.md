@@ -94,7 +94,7 @@ When I look at year over year improvement, 2012 shows a large jump following the
 
 Before 2012, avoided readmissions remained relatively low and readmission rates changed gradually.
 
-Beginning in 2012, avoided readmissions increased rapidly while readmission rates continued to decline. This period coincides with the activation of patient education programs in the dataset, including diabetes management and weight management initiatives.
+Beginning in 2012, avoided readmissions increased rapidly while readmission rates continued to decline. This period coincides with the patient education programs in the dataset, including diabetes management and weight management initiatives.
 
 <img src="image/Number_4_proof.png" width="100%"/>
 
