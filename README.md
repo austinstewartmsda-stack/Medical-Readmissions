@@ -52,7 +52,7 @@ Tableau
 
 Excel
 
-**Dataset:** CMS Hospital Readmission Data (2008–2016)
+**Dataset:**CMS Hospital Readmission Data (2008–2016) with additional data quality issues introduced to illustrate data cleaning.
 
 
 # Project Files
