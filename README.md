@@ -147,7 +147,8 @@ The data was dirty when I decided to start the project. I identified some common
 * Numeric fields imported as strings
 * Non business metadata columns
 * Spacing issues
-* Inconsistent Date Formats
+* Inconsistent date formats
+* Incorrect labeling of program implementation and continuation after 2015
 
 
 # Data Cleaning Process
@@ -173,6 +174,8 @@ I standardized them to a consistent format.
 
 I used TRIM functions to eliminate the whitespace.
 
+### Incorrect Labeling Of Program Implimentation and Continuation
+The lifestyle programs that were implimented starting in 2012 stopped being labeled correctly post 2015. I fixed this labeling issue in order to properly clean the data. 
 
 # Data Cleaning
 
