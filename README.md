@@ -79,7 +79,7 @@ I found that the readmission rate went down from 18.97% before the patient educa
 
 Using the rate before the programs started, I estimated that about 452,000 fewer people returned to the hospital during the program period. If each hospital return costs about $10,000 to $15,000, this could mean about $4.5 billion to $6.8 billion less was spent on hospital care.
 
-<img src="image/Proof_Statement_5.png" width="100%"/>
+<img src="image/proofforfivepoint.png" width="100%"/
 
 ### 2. I Found A Clear Shift Around 2012
 
