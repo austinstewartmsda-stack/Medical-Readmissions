@@ -71,36 +71,52 @@ https://github.com/austinstewartmsda-stack/Medical-Readmissions/tree/main/Tablea
 ![Total Avoided Readmissions](image/Addtoreadmitgithub.png)
 <img src="image/Readmit_Years_Dashboard.png" width="100%"/>
 
-### 1. Most avoided readmissions happen between 2012 and 2015.
+# Key Findings
 
-Avoided readmissions are very low from 2008 to 2011.
+### 1. Pre/Post Education Program Implementation
 
-They increase sharply starting in 2012, peak around 2013 to 2015, and then drop in 2016.
+I found that the readmission rate went down from 18.97% before the patient education programs started to 17.90% while the programs were active. This means the readmission rate was about 5.6% lower during the program period.
 
-This shows most of the impact is concentrated in a short period.
+Using the rate before the programs started, I estimated that about 452,000 fewer people returned to the hospital during the program period. If each hospital return costs about $10,000 to $15,000, this could mean about $4.5 billion to $6.8 billion less was spent on hospital care.
 
-### 2. The readmission rate steadily goes down.
+<img src="image/Proof_Statement_5.png" width="100%"/>
 
-The readmission rate starts around 19 percent and slowly drops each year. The biggest drop happens between 2011 and 2013. After that, it keeps going down, but the rate is slower.
+### 2. I Found A Clear Shift Around 2012
 
-![Average Readmission Rate Decreasing Through 2012](https://raw.githubusercontent.com/austinstewartmsda-stack/Medical-Readmissions/main/gifs/Average_Readmission_Rate_Decreasing_Through_2012.gif)
+Before 2012, I found that readmission rates changed slowly and estimated fewer readmissions stayed low.
 
-### 3. The biggest improvements happen in 2012 and 2013.
-
-When I look at year over year improvement, 2012 shows a large jump following the implementation of patient education programs in the dataset and 2013 is the highest improvement point. After 2013, improvements get smaller. This lines up with the spike in avoided readmissions.
-<img src="image/Proof_Statement_3.png" width="100%"/>
-
-### 4. There is a clear shift around 2012.
-
-Before 2012, avoided readmissions remained relatively low and readmission rates changed gradually.
-
-Beginning in 2012, avoided readmissions increased rapidly while readmission rates continued to decline. This period coincides with the patient education programs in the dataset, including diabetes management and weight management initiatives.
+Beginning in 2012, I found that estimated fewer readmissions increased quickly while readmission rates continued to go down. This happened during the same time period as the patient education programs in the dataset, including diabetes management and weight management programs.
 
 <img src="image/Number_4_proof.png" width="100%"/>
 
-### 5. 2016 does not follow the same pattern.
+### 3. I Found The Biggest Improvements In 2012 And 2013
 
-Avoided readmissions drop in 2016. But the readmission rate still goes down and improvement is still positive. This made me wonder if avoided readmissions are dropping, what is still pushing the rate down. This suggests avoided readmissions are not the only driver and other factors may also be contributing.
+When I looked at year over year improvement, I found a large increase in 2012. I found that 2013 had the highest improvement in the dataset. After 2013, the improvements became smaller. This matched the increase in estimated fewer readmissions.
+
+<img src="image/Proof_Statement_3.png" width="100%"/>
+
+### 4. I Found That The Readmission Rate Continued To Go Down
+
+I found that the readmission rate started at about 19 percent and slowly decreased throughout the study period. The largest drop happened between 2011 and 2013. After that, the rate continued to go down, but at a slower pace.
+
+![Average Readmission Rate Decreasing Through 2012](https://raw.githubusercontent.com/austinstewartmsda-stack/Medical-Readmissions/main/gifs/Average_Readmission_Rate_Decreasing_Through_2012.gif)
+
+### 5. I Found That Most Estimated Fewer Readmissions Happened Between 2012 And 2015
+
+I found that estimated fewer readmissions were low from 2008 through 2011.
+
+They increased quickly beginning in 2012, reached their highest levels between 2013 and 2015, and then decreased in 2016.
+
+This showed me that most of the improvement happened during a short period of time.
+
+![Total Avoided Readmissions](image/Addtoreadmitgithub.png)
+
+### 6. I Found That 2016 Did Not Follow The Same Pattern
+
+I found that estimated fewer readmissions decreased in 2016, but the readmission rate continued to improve and year over year improvement remained positive.
+
+This showed me that estimated fewer readmissions may not be the only reason the readmission rate continued to go down. Other factors may also have helped improve the rate.
+
 <img src="image/Proof_Statement_5.png" width="100%"/>
 
 
