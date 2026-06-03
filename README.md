@@ -68,16 +68,13 @@ https://github.com/austinstewartmsda-stack/Medical-Readmissions/tree/main/Tablea
 
 # Key Findings
 
-![Total Avoided Readmissions](image/Addtoreadmitgithub.png)
-<img src="image/Readmit_Years_Dashboard.png" width="100%"/>
-
-# Key Findings
-
 ### 1. Pre/Post Education Program Implementation
 
 I found that the readmission rate went down from 18.97% before the patient education programs started to 17.90% while the programs were active. This means the readmission rate was about 5.6% lower during the program period.
 
 Using the rate before the programs started, I estimated that about 452,000 fewer people returned to the hospital during the program period. If each hospital return costs about $10,000 to $15,000, this could mean about $4.5 billion to $6.8 billion less was spent on hospital care.
+
+These estimates are based on the readmission rate before the programs started and are intended to provide business context.
 
 <img src="image/proofforfivepoint.png" width="100%"/>
 
@@ -126,7 +123,7 @@ This showed me that estimated fewer readmissions may not be the only reason the 
 
 ### Recommendation 1
 
-Continue supporting initiatives associated with the reduction in readmission rates from 19.36% in 2008 to 17.30% in 2016 during the study period.
+Continue supporting patient education and chronic disease management programs because they were associated with lower readmission rates during the study period. During the program period, the readmission rate was 5.6% lower and I estimated about 452,000 fewer readmissions.
 
 ### Recommendation 2
 
@@ -139,14 +136,14 @@ The cleaned dataset contains 101 monthly observations from January 2008 to May 2
 
 I analyzed hospital readmission rates between 2008 and 2016 to identify trends, seasonal patterns, and periods of accelerated improvement.
 
-I also developed a derived avoided readmissions metric to estimate the impact of declining readmission rates over time.
+I also developed an estimated fewer readmissions metric to measure the impact of declining readmission rates over time.
 
 
 # What the Data Shows
 
 I am working with two main metrics:
 
-1. Avoided readmissions in thousands.
+1. Estimated Avoided Readmissions in thousands.
 
 2. Average readmission rate.
 
@@ -213,7 +210,7 @@ https://github.com/austinstewartmsda-stack/Medical-Readmissions/blob/main/SQL/SQ
 
 # Data Storage
 
-I loaded the cleaned CSV data into a SQL database and used SQL views for trend analysis, seasonality analysis, rolling averages, year-over-year comparisons, and avoided readmission calculations.
+I loaded the cleaned CSV data into a SQL database and used SQL views for trend analysis, seasonality analysis, rolling averages, year-over-year comparisons, and estimated readmission calculations.
 
 ![SQL Database GIF](https://raw.githubusercontent.com/austinstewartmsda-stack/Medical-Readmissions/main/gifs/SQLDataBase.gif)
 
