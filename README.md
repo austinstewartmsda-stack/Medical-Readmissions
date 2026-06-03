@@ -72,7 +72,7 @@ https://github.com/austinstewartmsda-stack/Medical-Readmissions/tree/main/Tablea
 
 I found that the readmission rate went down from 18.97% before the patient education programs started to 17.90% while the programs were active. This means the readmission rate was about 5.6% lower during the program period.
 
-Using the rate before the programs started, I estimated that about 452,000 fewer people returned to the hospital during the program period. If each hospital return costs about $10,000 to $15,000, this could mean about $4.5 billion to $6.8 billion less was spent on hospital care.
+Using the rate before the programs started, I estimated that about 452,000 fewer people returned to the hospital during the program period. If each hospital return costs about $10,000 to $15,000, this could represent about $4.5 billion to $6.8 billion in potential cost savings.
 
 These estimates are based on the readmission rate before the programs started and are intended to provide business context.
 
