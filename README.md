@@ -21,7 +21,7 @@ I'll add the video link here.
 * [Dashboard](#dashboard)
 * [Tableau Visuals](#tableau-visuals)
 * [What I Did](#what-i-did)
-* [What the Data Shows](#what-the-data-shows)
+* [Metrics](#Metrics)
 * [Data Quality Issues](#data-quality-issues)
 * [Data Cleaning Process](#data-cleaning-process)
 * [Issues / Resolutions](#issues--resolutions)
@@ -139,7 +139,7 @@ I analyzed hospital readmission rates between 2008 and 2016 to identify trends, 
 I also developed an estimated fewer readmissions metric to measure the impact of declining readmission rates over time.
 
 
-# What the Data Shows
+# Metrics
 
 I am working with two main metrics:
 
