@@ -4,8 +4,11 @@
 
 ### Austin Stewart, MSDS
 
-Video Explanation Of The Project
-I'll add the video link here. 
+## Executive Summary
+
+I analyzed hospital readmission data from 2008 through 2016 to identify trends, periods of improvement, and the possible impact of patient education programs. I cleaned the data, built SQL views, and created Tableau dashboards to support my analysis.
+
+I found that readmission rates decreased throughout the study period, with the largest improvements occurring between 2012 and 2013. During the patient education program period, the average readmission rate was about 5.6% lower and I estimated about 452,000 fewer hospital readmissions. This could represent between $4.5 billion and $6.8 billion in potential cost savings.
 
 <img src="https://raw.githubusercontent.com/austinstewartmsda-stack/Medical-Readmissions/main/image/hospital.jpg" style="width:100%; border-radius:12px;">
 
