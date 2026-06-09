@@ -9,34 +9,6 @@
 
 </div>
 
-## Quick Navigation
-
-* [Project Overview](#project-overview)
-* [Project Stack](#project-stack)
-* [Project Files](#project-files)
-* [Key Findings](#key-findings)
-* [Business Recommendations](#business-recommendations)
-* [Dashboard](#dashboard)
-* [Tableau Visuals](#tableau-visuals)
-* [What I Did](#what-i-did)
-* [Metrics](#Metrics)
-* [Data Quality Issues](#data-quality-issues)
-* [Data Cleaning Process](#data-cleaning-process)
-* [Issues / Resolutions](#issues--resolutions)
-* [Data Cleaning](#data-cleaning)
-* [Data Storage](#data-storage)
-* [SQL Analysis Layer](#sql-analysis-layer)
-* [Why I Built It This Way](#why-i-built-it-this-way)
-* [R² Values](#r²-values)
-* [Why I Think This Matters](#why-i-think-this-matters)
-* [What I Would Do Next](#what-i-would-do-next)
-* [Skills I Used](#skills-i-used)
-* [Tools I Used](#tools-i-used)
-* [SQL Views](#sql-views)
-* [Tableau Workbooks](#tableau-workbooks)
-* [References](#references)
-
-
 ## Executive Summary
 
 I analyzed hospital readmission data from 2008 through 2016 to identify trends, periods of improvement, and the possible impact of patient education programs. I cleaned the data, built SQL views, and created Tableau dashboards to support my analysis.
