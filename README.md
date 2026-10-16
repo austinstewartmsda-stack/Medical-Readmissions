@@ -103,6 +103,8 @@ Review differences between the highest readmission period (19.53% in January 200
 
 # What I Did
 
+I will perform data modeling using ERDs and put them into Snowflake or SQL Server Management Studio.
+
 The cleaned dataset contains 101 monthly observations from January 2008 to May 2016.
 
 I analyzed hospital readmission rates between 2008 and 2016 to identify trends, seasonal patterns, and periods of accelerated improvement.
